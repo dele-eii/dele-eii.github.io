@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" width="500" height="500" xmlns="http://www.w3.org/2000/svg">
+  <ellipse transform="matrix(0.6112239956855774, 0.7914579510688782, -0.791456937789917, 0.6112239956855774, 436.1844482421875, -150.63458251953125)" cx="143.436" cy="346.015" rx="173.5" ry="173.5" style="fill: rgb(225, 50, 71);"/>
+  <text style="fill: rgb(255, 255, 255); font-size: 250px; white-space: pre;" x="180.492" y="269.897" transform="matrix(1, 0, 0, 1, 0, 0)">?</text>
+  <text transform="matrix(1, 0, 0, 1, 20.301998, -62.678059)" style="fill: rgb(255, 255, 255); font-size: 77px; white-space: pre;"><tspan x="0" y="478.632">¿NECESITAS</tspan><tspan x="0" dy="1em">​</tspan></text>
+  <text x="24.929" y="378.917" style="white-space: pre; fill: rgb(51, 51, 51); font-size: 24px;" transform="matrix(1, 0, 0, 1, 0, 0)"> </text>
+  <text style="fill: rgb(255, 255, 255); font-size: 77px; white-space: pre;" x="116.368" y="489.628">AYUDA?</text>
+</svg>

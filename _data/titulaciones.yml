@@ -1,0 +1,99 @@
+- nombre: Mecánica
+  horario: https://eii.uva.es/titulaciones/grados/horariosPdf/455.pdf
+  examenes: https://eii.uva.es/titulaciones/grados/examenes_17-18/455examenes.pdf
+  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/455/asignaturas.pdf
+  plan: https://eii.uva.es/titulaciones/grados/planes/455.pdf
+
+- nombre: Electrónica
+  horario: https://eii.uva.es/titulaciones/grados/horariosPdf/452.pdf
+  examenes: https://eii.uva.es/titulaciones/grados/examenes_17-18/452examenes.pdf
+  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/452/asignaturas.pdf
+  plan: https://eii.uva.es/titulaciones/grados/planes/452.pdf
+
+- nombre: Organización
+  horario: https://eii.uva.es/titulaciones/grados/horariosPdf/447.pdf
+  examenes: https://eii.uva.es/titulaciones/grados/examenes_17-18/447examenes.pdf
+  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/447/asignaturas.pdf
+  plan: https://eii.uva.es/titulaciones/grados/planes/447.pdf
+
+- nombre: Tecnologías
+  horario: https://eii.uva.es/titulaciones/grados/horariosPdf/493.pdf
+  examenes: https://eii.uva.es/titulaciones/grados/examenes_17-18/493examenes.pdf
+  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/493/asignaturas.pdf
+  plan: https://eii.uva.es/titulaciones/grados/planes/493.pdf
+
+- nombre: Eléctrica
+  horario: https://eii.uva.es/titulaciones/grados/horariosPdf/439.pdf
+  examenes: https://eii.uva.es/titulaciones/grados/examenes_17-18/439examenes.pdf
+  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/439/asignaturas.pdf
+  plan: https://eii.uva.es/titulaciones/grados/planes/439.pdf
+
+- nombre: Química
+  horario: https://eii.uva.es/titulaciones/grados/horariosPdf/442.pdf
+  examenes: https://eii.uva.es/titulaciones/grados/examenes_17-18/442examenes.pdf
+  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/442/asignaturas.pdf
+  plan: https://eii.uva.es/titulaciones/grados/planes/442.pdf
+
+- nombre: Diseño
+  horario: https://eii.uva.es/titulaciones/grados/horariosPdf/448.pdf
+  examenes: https://eii.uva.es/titulaciones/grados/examenes_17-18/448examenes.pdf
+  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/448/asignaturas.pdf
+  plan: https://eii.uva.es/titulaciones/grados/planes/448.pdf
+
+- nombre: Másteres
+  masteres:
+    - nombre: Industrial
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Logística
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Automoción
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Prevención
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Energía
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Ambiental
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Acustica
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Química
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Informática <br> Industrial
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Termodinámica <br> de Fluidos
+      horario:
+      examenes:
+      asignaturas:
+      plan:
+    - nombre: Electrónica y <br> Automática
+      horario:
+      examenes:
+      asignaturas:
+      plan:

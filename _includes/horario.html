@@ -1,0 +1,24 @@
+<div class="row">
+  <div class="col-12 col-sm-4">
+  </div>
+  <div class="col-12 col-sm-4">
+    <table class="table table-hover table-sm table-bordered">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Días</th>
+          <th class="text-center" scope="col">Horas</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for horario in site.data.horario %}
+          <tr>
+            <th scope="row">{{ horario.dia }}</th>
+            <td class="text-center">{{ horario.horas }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <div class="col-12 col-sm-4">
+  </div>
+</div>

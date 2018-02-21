@@ -1,0 +1,20 @@
+---
+# Front matter comment to ensure Jekyll properly reads file.
+---
+
+@charset "utf-8";
+
+//@import
+#gif {
+  background:  url({{ '/assets/gif/timelapse.gif' | absolute_url }}) no-repeat center bottom;
+  background-size: cover;
+}
+
+#titulo {
+  font-size: 3em;
+  color: white;
+}
+
+#dropdownButton {
+  font-weight: bold;
+}

@@ -1,0 +1,47 @@
+---
+layout: pages
+---
+<div class="container">
+  <div class="card-deck">
+    {% for post in paginator.posts limit:3 %}
+      {% include card.html %}
+      {% assign x = forloop.length %}
+    {% endfor %}
+    {% include cardseparator.html %}
+  <div class="card-deck">
+    {% assign x = 0 %}
+    {% for post in paginator.posts offset:3 limit:3 %}
+      {% include card.html %}
+      {% assign x = forloop.length %}
+    {% endfor %}
+    {% include cardseparator.html %}
+  <div class="card-deck">
+    {% assign x = 0 %}
+    {% for post in paginator.posts offset:6 limit:3 %}
+      {% include card.html %}
+      {% assign x = forloop.length %}
+    {% endfor %}
+    {% include cardseparator.html %}
+</div>
+<div class="text-center">
+  {% if paginator.total_pages > 1 %}
+  <div class="btn-group" role="group" aria-label="pagination">
+    {% if paginator.previous_page %}
+      <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-outline-secondary">&laquo; Anterior</a>
+    {% endif %}
+    {% for page in (1..paginator.total_pages) %}
+      {% if page == paginator.page %}
+        <a href="#" class="btn btn-outline-secondary active">{{ page }}</a>
+      {% elsif page == 1 %}
+        <a href="{{site.url}}{{site.baseurl}}/noticias/" class="btn btn-outline-secondary">{{ page }}</a>
+      {% else %}
+        <a href="{{ site.paginate_path | prepend: site.baseurl | replace: '//', '/' | replace: ':num', page }}" class="btn btn-outline-secondary">{{ page }}</a>
+      {% endif %}
+    {% endfor %}
+    {% if paginator.next_page %}
+      <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}" class="btn btn-outline-secondary" >Siguiente &raquo;</a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+<br>

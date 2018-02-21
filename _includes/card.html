@@ -1,0 +1,10 @@
+<div class="card">
+  <a href="{{site.url}}{{site.baseurl}}{{ post.url }}">
+    <img class="card-img-top" src="{{site.url}}{{site.baseurl}}{{ post.image }}"/>
+  </a>
+  <div class="card-body">
+    <h5 class="card-title">{{ post.title }}</h5>
+    <p class="card-text">{{ post.date | date: "%d/%m/%Y" }}</p>
+    <a href="{{site.url}}{{site.baseurl}}{{ post.url }}" class="btn btn-primary">Leer</a>
+  </div>
+</div>

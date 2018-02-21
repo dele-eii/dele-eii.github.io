@@ -1,0 +1,42 @@
+---
+layout: default
+---
+<div class="jumbotron jumbotron-fluid pb-4" id="gif">
+  <div class="container">
+    <br>
+    <h1 class="text-center" id="titulo">{{site.title}}</h1>
+    {% include titulaciones.html %}
+  </div>
+</div>
+<div class="container">
+  <div class="card-deck">
+    {% for post in site.posts limit:2 %}
+      {% include card.html %}
+    {% endfor %}
+  </div>
+  <br>
+  <div class="jumbotron bg-dark py-3">
+    <div class="row">
+      <div class="col-6">
+        <a class="btn btn-block btn-outline-success" href="{{site.url}}{{site.baseurl}}/FAQ/">
+          <img src="{{ '/assets/logo/faq.svg' | absolute_url }}" class="mx-auto d-block" width="72"  height="72" alt="">
+        </a>
+      </div>
+      <div class="col-6">
+        <a class="btn btn-block btn-outline-danger" href="{{site.url}}{{site.baseurl}}/ayuda/">
+          <img src="{{ '/assets/logo/ayuda.svg' | absolute_url }}" class="mx-auto d-block" width="72"  height="72" alt="">
+        </a>
+      </div>
+    </div>
+  </div>
+  <div class="card-deck">
+    {% for post in site.posts offset:2 limit:3 %}
+      {% include card.html %}
+    {% endfor %}
+  </div>
+  <br>
+  <div class="text-center">
+    <a href="{{site.url}}{{site.baseurl}}/noticias/" class="btn btn-outline-secondary">Mas noticias</a>
+  </div>
+</div>
+<br>

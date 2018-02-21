@@ -1,0 +1,178 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+  <title>Delegación EII</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <!-- Latest compiled and minified CSS -->
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+  <link rel="stylesheet" href="http://localhost:4000/web/assets/css/main.css">
+</head>
+
+  <body>
+    <header>
+  <div class="float-left  ml-2 mt-2">
+    <a class="" href="http://localhost:4000/web/">
+      <img src="http://localhost:4000/web/assets/logo/logoDele.svg" class="img-fluid" width="95"  height="95" alt="">
+    </a>
+  </div>
+  <nav class="navbar navbar-expand navbar-light pl-0 pr-2">
+    <div class="navbar-nav mr-auto">
+      <a class="nav-item nav-link" href="https://twitter.com/DELE_EII_UVA">
+        <img src="http://localhost:4000/web/assets/logo/twitter.svg" class="img-fluid" width="33" alt="">
+      </a>
+      <a class="nav-item nav-link" href="https://www.facebook.com/DELE.EII.UVA">
+        <img src="http://localhost:4000/web/assets/logo/facebook.svg" class="img-fluid" width="28" alt="">
+      </a>
+      <a class="nav-item nav-link icon-telegram link-telegram" href="https://telegram.me/Dele_EII_UVA">
+        <img src="http://localhost:4000/web/assets/logo/telegram.svg" class="img-fluid" width="28" alt="">
+      </a>
+    </div>
+    <div class="navbar-nav ml-auto">
+      <a class="nav-item nav-link" href="http://localhost:4000/web/contactar/">Contactar</a>
+      <a class="nav-item nav-link" href="http://localhost:4000/web/buscar/">
+        <img src="http://localhost:4000/web/assets/logo/search.svg" class="" width="20" alt="">
+      </a>
+    </div>
+  </nav>
+</header>
+
+    <div id="main">
+      <div class="jumbotron jumbotron-fluid py-3">
+  <br>
+</div>
+<div class="container">
+  <p>
+Puedes encontrarnos en la Delegación, en la sede
+<a href="https://www.google.com/maps/place/UVa+Escuela+de+Ingenier%C3%ADas+Industriales.+Sede+Paseo+del+Cauce/@41.6598347,-4.7145476,17z/data=!4m15!1m9!2m8!1sHoteles!3m6!1sHoteles!2s41.6598347,+-4.7123589!3s0xd4712a6ad0de665:0xd56bc64aa043a3a6!4m2!1d-4.7123589!2d41.6598347!3m4!1s0xd4712a6ad0de665:0x4fe005cdaa2aedbb!8m2!3d41.6570157!4d-4.7103091">Paseo del Cauce</a>,
+ en la segunda planta a la derecha.
+</p>
+<p>
+Tenemos horario de atención:
+</p>
+<div class="row">
+  <div class="col-12 col-sm-4">
+  </div>
+  <div class="col-12 col-sm-4">
+    <table class="table table-hover table-sm table-bordered">
+      <thead class="thead-light">
+        <tr>
+          <th scope="col">Días</th>
+          <th class="text-center" scope="col">Horas</th>
+        </tr>
+      </thead>
+      <tbody>
+        
+          <tr>
+            <th scope="row">Lunes</th>
+            <td class="text-center">10:00 - 11:00</td>
+          </tr>
+        
+          <tr>
+            <th scope="row">Martes</th>
+            <td class="text-center">10:00 - 11:00</td>
+          </tr>
+        
+          <tr>
+            <th scope="row">Miércoles</th>
+            <td class="text-center">10:00 - 11:00</td>
+          </tr>
+        
+          <tr>
+            <th scope="row">Jueves</th>
+            <td class="text-center">10:00 - 11:00</td>
+          </tr>
+        
+          <tr>
+            <th scope="row">Viernes</th>
+            <td class="text-center">10:00 - 11:00</td>
+          </tr>
+        
+      </tbody>
+    </table>
+  </div>
+  <div class="col-12 col-sm-4">
+  </div>
+</div>
+
+<br>
+<p>
+Tambien puedes contactarnos por
+<a class="icon-telegram link-telegram" href="https://telegram.me/Dele_EII">Telegram</a>
+o mediante el siguiente formulario.
+</p>
+<h2>Formulario de contacto</h2>
+<form class="needs-validation" novalidate action="https://formspree.io/raullazaro94@gmail.com" method="POST">
+  <div class="form-group">
+    <label for="email">Email:</label>
+    <input type="email" class="form-control" id="email" name="_replyto">
+    <small id="emailHelp" class="form-text text-muted"></small>
+    <div class="invalid-feedback">
+      Introduce un correo valido.
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="asunto">Asunto:</label>
+    <input type="text" class="form-control" id="asunto" name="_subject" required>
+    <div class="invalid-feedback">
+      Rellena este campo.
+    </div>
+  </div>
+  <div class="form-group">
+    <label for="mensaje">Mensaje:</label>
+    <textarea type="text" class="form-control" id="mensaje" name="mensaje" required></textarea>
+    <div class="invalid-feedback">
+      Rellena este campo.
+    </div>
+  </div>
+    <input type="submit" class="btn btn-outline-secondary" value="Enviar">
+    <input type="hidden" name="_format" value="plain">
+    <input type="hidden" name="_language" value="es">
+    <!-- <input type="hidden" name="_next" value="http://localhost:4000/web/contactar/">-->
+</form>
+
+<br>
+<script>
+// Example starter JavaScript for disabling form submissions if there are invalid fields
+(function() {
+  'use strict';
+  window.addEventListener('load', function() {
+    // Fetch all the forms we want to apply custom Bootstrap validation styles to
+    var forms = document.getElementsByClassName('needs-validation');
+    // Loop over them and prevent submission
+    var validation = Array.prototype.filter.call(forms, function(form) {
+      form.addEventListener('submit', function(event) {
+        if (form.checkValidity() === false) {
+          event.preventDefault();
+          event.stopPropagation();
+        }
+        form.classList.add('was-validated');
+      }, false);
+    });
+  }, false);
+})();
+</script>
+
+
+</div>
+
+    </div>
+    <footer>
+  <div class="jumbotron jumbotron-fluid mb-0">
+    <div class="container">
+
+    </div>
+  </div>
+</footer>
+
+    <!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+
+<!-- Popper JS -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
+
+<!-- Latest compiled JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
+
+  </body>
+</html>

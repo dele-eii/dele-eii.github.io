@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.6.2">Jekyll</generator><link href="http://localhost:4000/web/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/web/" rel="alternate" type="text/html" /><updated>2018-02-20T21:53:41+01:00</updated><id>http://localhost:4000/web/</id><title type="html">Delegación EII</title><subtitle>Delagación de Alumnos de la EII</subtitle><entry><title type="html">Matlab para Ingenier@s (2ª edición)</title><link href="http://localhost:4000/web/2018/02/12/Matlab-para-Ingenier@s-(2a-edici%C3%B3n).html" rel="alternate" type="text/html" title="Matlab para Ingenier@s (2ª edición)" /><published>2018-02-12T00:00:00+01:00</published><updated>2018-02-12T00:00:00+01:00</updated><id>http://localhost:4000/web/2018/02/12/Matlab%20para%20Ingenier@s%20(2a%20edici%C3%B3n)</id><content type="html" xml:base="http://localhost:4000/web/2018/02/12/Matlab-para-Ingenier@s-(2a-edici%C3%B3n).html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-12 col-sm-6&quot;&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;strong&gt;Duración&lt;/strong&gt; 25 horas (20 horas presenciales y 5 horas no presenciales)&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Fechas&lt;/strong&gt; Del 12 al 16 de marzo 2018&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Horario&lt;/strong&gt; De 16h a 20h30 (4h de curso + 30 minutos de descanso)&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Lugar&lt;/strong&gt; Aula de simulación P33 (primer piso de la sede Fco. Mendizábal de la EII)&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Destinatarios&lt;/strong&gt; Estudiantes de segundo curso y sucesivos de algún grado en Ingeniería Industrial, así como e studiantes de másteres y programas de doctorado y personal docente e investigador en campos afines a la Ingeniería Industrial.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Objetivos&lt;/strong&gt; Al finalizar el curso el alumno será capaz de poner a punto y ejecutar rutinas de cálculo para la resolución de problemas típicos de las titulaciones de ingeniería en un lenguaje de programación científico-técnico de carácter generalista como es Matlab.&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Requisitos&lt;/strong&gt; Conocimientos mínimos de programación (bucles, condiciones if/else…) y de matemáticas (álgebra matricial, cálculo…).&lt;/li&gt;
+      &lt;li&gt;&lt;strong&gt;Instructor&lt;/strong&gt; Álvaro Magdaleno González Graduado en Ingeniería Mecánica, Máster en Ingeniería Industrial y actual estudiante de doctorado en Ingeniería Industrial en la Universidad de Valladolid.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-12 col-sm-6&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/web/media/matlab.jpg&quot; alt=&quot;Matlab.jpg&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;contenidos&quot;&gt;Contenidos&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Introducción a Matlab y su lenguaje de programación. Scripts y funciones.&lt;/li&gt;
+  &lt;li&gt;Representación gráfica (2D y 3D) de la información. Importar y exportar información.&lt;/li&gt;
+  &lt;li&gt;Herramientas numéricas: ajuste de curvas, interpolación, integración y derivación.&lt;/li&gt;
+  &lt;li&gt;Manipulación y resolución simbólica (mediante la Symbolic Math Toolbox)&lt;/li&gt;
+  &lt;li&gt;Simulación en el tiempo por resolución de ecuaciones diferenciales.&lt;/li&gt;
+  &lt;li&gt;Introducción a la optimización con Matlab.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;metodología&quot;&gt;Metodología&lt;/h2&gt;
+
+&lt;p&gt;Se guiará el aprendizaje a través de múltiples problemas contextualizados en alguna de las áreas de la Ingeniería Industrial para los cuales se suministrará en todo caso el enunciado y ecuaciones necesarias, centrando así el esfuerzo en comprender su resolución con Matlab. Cada alumno dispondrá de un puesto informático en el aula con el que trabajar a lo largo del curso. Durante el desarrollo del curso se propondrá, además, la resolución de algún ejercicio de forma autónoma para afianzar y completar las competencias adquiridas en clase.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Precio: 50€&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;PLAZAS LIMITADAS POR RIGUROSO ORDEN DE INSCRIPCIÓN
+Los interesados deben cumplimentar el &lt;a href=&quot;https://goo.gl/forms/MGw34K5AXAsb3C7U2&quot;&gt;formulario&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Para realizar el pago deberán realizar una transferencia o ingreso en cuenta.
+Open Bank
+ASOCIACIÓN DE ESTUDIANTES DE INGENIERÍAS INDUSTRIALES DE VALLADOLID
+ES91 0073 0100 5305 0435 1437
+Concepto: “Nombre_Apellido”&lt;/p&gt;
+
+&lt;p&gt;Al final del curso se emitirá el correspondiente diploma acreditativo.&lt;/p&gt;</content><author><name></name></author><summary type="html">Duración 25 horas (20 horas presenciales y 5 horas no presenciales) Fechas Del 12 al 16 de marzo 2018 Horario De 16h a 20h30 (4h de curso + 30 minutos de descanso) Lugar Aula de simulación P33 (primer piso de la sede Fco. Mendizábal de la EII) Destinatarios Estudiantes de segundo curso y sucesivos de algún grado en Ingeniería Industrial, así como e studiantes de másteres y programas de doctorado y personal docente e investigador en campos afines a la Ingeniería Industrial. Objetivos Al finalizar el curso el alumno será capaz de poner a punto y ejecutar rutinas de cálculo para la resolución de problemas típicos de las titulaciones de ingeniería en un lenguaje de programación científico-técnico de carácter generalista como es Matlab. Requisitos Conocimientos mínimos de programación (bucles, condiciones if/else…) y de matemáticas (álgebra matricial, cálculo…). Instructor Álvaro Magdaleno González Graduado en Ingeniería Mecánica, Máster en Ingeniería Industrial y actual estudiante de doctorado en Ingeniería Industrial en la Universidad de Valladolid.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web/media/matlab.jpg" /></entry><entry><title type="html">Big Van Ciencia participará en la imposición de insignias de ingenierosVA en la Escuela de Ingenierías Industriales</title><link href="http://localhost:4000/web/2017/10/18/Big-Van-Ciencia-participar%C3%A1-en-la-imposici%C3%B3n-de-insignias-de-ingenierosVA-en-la-Escuela-de-Ingenier%C3%ADas-Industriales.html" rel="alternate" type="text/html" title="Big Van Ciencia participará en la imposición de insignias de ingenierosVA en la Escuela de Ingenierías Industriales" /><published>2017-10-18T00:00:00+02:00</published><updated>2017-10-18T00:00:00+02:00</updated><id>http://localhost:4000/web/2017/10/18/Big%20Van%20Ciencia%20participar%C3%A1%20en%20la%20imposici%C3%B3n%20de%20insignias%20de%20ingenierosVA%20en%20la%20Escuela%20de%20Ingenier%C3%ADas%20Industriales</id><content type="html" xml:base="http://localhost:4000/web/2017/10/18/Big-Van-Ciencia-participar%C3%A1-en-la-imposici%C3%B3n-de-insignias-de-ingenierosVA-en-la-Escuela-de-Ingenier%C3%ADas-Industriales.html">&lt;p&gt;Los alumnos recién graduados recibirán un distintivo por parte del Colegio Oficial de Graduados en Ingeniería en reconocimiento a la finalización de sus estudios el jueves 26 de octubre a las 19:00 horas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/web/media/bigvanCiencia.jpg&quot; alt=&quot;bigvanCiencia.jpg&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;La finalización de una de las etapas formativas más importantes en el desarrollo vital de una persona bien merece un reconocimiento, por lo que ingenierosVA quiere premiar a los alumnos recién graduados con una imposición de insigniasconmemorativas del Colegio.&lt;/p&gt;
+
+&lt;p&gt;La alianza natural entre la Escuela de Ingenierías Industriales y el Colegio ofrece para los alumnos también una acción en el salón de actos donde confluyen el humor y la divulgación científica a través del grupo ‘Big Van Ciencia’, gracias a la colaboración de CaixaBank.&lt;/p&gt;
+
+&lt;p&gt;A partir de las 19:00 horas del jueves 26 de octubre los científicos y monologuistas de Big Van Ciencia usarán el humor como herramienta para festejar la finalización de la etapa universitaria de casi 300 alumnos en un evento donde el Colegio pone en marcha una serie de Charlas Culturales que tendrán continuación a lo largo del resto del curso escolar.&lt;/p&gt;
+
+&lt;p&gt;Un evento exclusivo: Si eres &lt;strong&gt;recien graduado&lt;/strong&gt; de la Escuela de Ingenierías Industriales o &lt;strong&gt;estudiante de la Escuela&lt;/strong&gt; puedes reservar tu plaza.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Imprescindible reservar&lt;/strong&gt; confirmando asistencia a través del siguiente enlace: &lt;a href=&quot;https://www.ticketea.com/entradas-conferencia-imposicion-de-insignias-ingenierosva/&quot;&gt;RESERVAR&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lugar: Escuela de Ingenierías Industriales. Sede &lt;a href=&quot;https://www.google.com/maps/place/UVa+Escuela+de+Ingenier%C3%ADas+Industriales.+Sede+Paseo+del+Cauce/@41.6598347,-4.7145476,17z/data=!4m15!1m9!2m8!1sHoteles!3m6!1sHoteles!2s41.6598347,+-4.7123589!3s0xd4712a6ad0de665:0xd56bc64aa043a3a6!4m2!1d-4.7123589!2d41.6598347!3m4!1s0xd4712a6ad0de665:0x4fe005cdaa2aedbb!8m2!3d41.6570157!4d-4.7103091&quot;&gt;Paseo del Cauce&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</content><author><name></name></author><summary type="html">Los alumnos recién graduados recibirán un distintivo por parte del Colegio Oficial de Graduados en Ingeniería en reconocimiento a la finalización de sus estudios el jueves 26 de octubre a las 19:00 horas.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web/media/bigvanCiencia.jpg" /></entry><entry><title type="html">III Concurso Blape de Construcción de Grúas</title><link href="http://localhost:4000/web/2017/10/17/III-Concurso-Blape-de-Construcci%C3%B3n-de-Gr%C3%BAas.html" rel="alternate" type="text/html" title="III Concurso Blape de Construcción de Grúas" /><published>2017-10-17T00:00:00+02:00</published><updated>2017-10-17T00:00:00+02:00</updated><id>http://localhost:4000/web/2017/10/17/III%20Concurso%20Blape%20de%20Construcci%C3%B3n%20de%20Gr%C3%BAas</id><content type="html" xml:base="http://localhost:4000/web/2017/10/17/III-Concurso-Blape-de-Construcci%C3%B3n-de-Gr%C3%BAas.html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-12 col-sm-6&quot;&gt;
+    &lt;p&gt;El viernes, día 3 de Noviembre de 2017, se organizará en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce), el III Concurso de Construcción de Grúas con palitos de madera, el cual estará organizado por IngenierosVA y la Delegación de Alumnos.&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;El equipo ganador obtendrá un premio efectivo de 150,00 € único para todo el equipo.&lt;/li&gt;
+      &lt;li&gt;El segundo equipo obtendrá un premio efectivo de 50,00 € único para todo el equipo.&lt;/li&gt;
+    &lt;/ul&gt;
+
+    &lt;p&gt;Para que todos podáis participar, el concurso se llevará a cabo en las franjas sin docencia disponibles los viernes. Así, la construcción se llevará a cabo por la mañana (12:30-16:00) y la carga se llevará a cabo por la tarde (19:30-21:00).&lt;/p&gt;
+
+    &lt;p&gt;Para la construcción de la grúa se utilizarán palos de madera normalizados unidos con cola termofusible y una base de aglomerado. En la evaluación (en la cual habrá una persona de IngenierosVA, una persona de la Delegación de Alumnos y un profesor de la EII), se valorará tanto la Carga (90%) que pueda aguantar y la Estética (10%). Más información en las &lt;a href=&quot;/web/media/Bases.pdf&quot;&gt;bases del concurso&lt;/a&gt;&lt;/p&gt;
+
+    &lt;p&gt;La organización del concurso os proporcionará todo el material de construcción que requiráis, tal y como establece en las bases y podréis añadir cualquier elemento estético que deseéis.&lt;/p&gt;
+
+    &lt;p&gt;La inscripción:&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Se deberá cumplimentar el &lt;a href=&quot;https://goo.gl/forms/SJVuQ5yKQRi51nXJ2&quot;&gt;formulario&lt;/a&gt; antes del 1 de noviembre&lt;/li&gt;
+      &lt;li&gt;Se notificará a los equipos la inscripción en el concurso, de haber superado los 15 equipos inscritos se comunicará la posición en la lista de espera.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-12 col-sm-6&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/web/media/CARTEL_CONCURSO_DE_GRUAS.jpg&quot; alt=&quot;CARTEL_CONCURSO_DE_GRUAS.jpg&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;</content><author><name></name></author><summary type="html">El viernes, día 3 de Noviembre de 2017, se organizará en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce), el III Concurso de Construcción de Grúas con palitos de madera, el cual estará organizado por IngenierosVA y la Delegación de Alumnos.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web/media/CARTEL_CONCURSO_DE_GRUAS.jpg" /></entry><entry><title type="html">CURSO SAP2000 PROFESIONAL - VALLADOLID</title><link href="http://localhost:4000/web/2017/02/21/CURSO-SAP2000-PROFESIONAL-VALLADOLID.html" rel="alternate" type="text/html" title="CURSO SAP2000 PROFESIONAL - VALLADOLID" /><published>2017-02-21T00:00:00+01:00</published><updated>2017-02-21T00:00:00+01:00</updated><id>http://localhost:4000/web/2017/02/21/CURSO%20SAP2000%20PROFESIONAL%20-%20VALLADOLID</id><content type="html" xml:base="http://localhost:4000/web/2017/02/21/CURSO-SAP2000-PROFESIONAL-VALLADOLID.html">&lt;div class=&quot;row&quot;&gt;
+  &lt;div class=&quot;col-12 col-sm-6&quot;&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Comprender la lógica subyacente a la organización de la interfaz de uso&lt;/li&gt;
+      &lt;li&gt;Comprender los conceptos fundamentales sobre el modelado en SAP2000 y la diferencia entre el modelo basado en objetos y modelo de análisis, basado en elementos&lt;/li&gt;
+      &lt;li&gt;Conocer las herramientas de modelado y análisis disponibles y los respectivos modos de aplicación y funcionamiento&lt;/li&gt;
+      &lt;li&gt;Modelar edificios reales y reconocer/resolver las singularidades típicas de una estructura incluida en un proyecto arquitectónico&lt;/li&gt;
+      &lt;li&gt;Comprender las relaciones causa-efecto del recurso a diversas técnicas de modelado&lt;/li&gt;
+      &lt;li&gt;Utilizar las herramientas del SAP2000 para comprobación y dimensionamiento de elementos de barra de hormigón armado y de acero, así como de elementos de cáscara de hormigón armado según los Eurocódigos 2, 3 y 8&lt;/li&gt;
+      &lt;li&gt;Modelar y dimensionar otros tipos de estructuras metálicas y de hormigón armado y pretensados&lt;/li&gt;
+      &lt;li&gt;Importar y exportar modelos y datos para interacción con otros programas&lt;/li&gt;
+      &lt;li&gt;Destinatarios Estudiantes y profesionales de ingeniería.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/div&gt;
+  &lt;div class=&quot;col-12 col-sm-6&quot;&gt;
+    &lt;p&gt;&lt;img src=&quot;/web/media/sap200.jpg&quot; alt=&quot;sap200.jpg&quot; /&gt;&lt;/p&gt;
+  &lt;/div&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&quot;otras-informaciones&quot;&gt;Otras Informaciones&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;El aula es el laboratorio de simulación (aula P33, primera planta) de la Escuela de Ingenierías Industriales, Sede Francisco Mendizábal.&lt;/li&gt;
+  &lt;li&gt;Los alumnos deben llevar su ordenador portátil con las licencias de los programas préviamente instaladas.&lt;/li&gt;
+  &lt;li&gt;La empresa va a enviar a todos los alumnos las licencias temporales de los programas a través del correo electrónico.&lt;/li&gt;
+  &lt;li&gt;Todos los alumnos inscriptos van a recibir un certificado oficial mediante la participación de 70% en la formación.&lt;/li&gt;
+  &lt;li&gt;Va a ser facultado a los alumnos inscriptos el acceso al material didáctico online.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;inscripciones&quot;&gt;Inscripciones&lt;/h2&gt;
+
+&lt;p&gt;Las inscripciones deben ser realizadas en la página web de CSI Spain (Inscríbase ahora).Para más informaciones contacte:&lt;/p&gt;
+
+&lt;p&gt;CSI SPAIN:&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;mailto:formacion@csiespana.com&quot;&gt;formacion@csiespana.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;+34 66 972 52 57&lt;/p&gt;</content><author><name></name></author><summary type="html">Comprender la lógica subyacente a la organización de la interfaz de uso Comprender los conceptos fundamentales sobre el modelado en SAP2000 y la diferencia entre el modelo basado en objetos y modelo de análisis, basado en elementos Conocer las herramientas de modelado y análisis disponibles y los respectivos modos de aplicación y funcionamiento Modelar edificios reales y reconocer/resolver las singularidades típicas de una estructura incluida en un proyecto arquitectónico Comprender las relaciones causa-efecto del recurso a diversas técnicas de modelado Utilizar las herramientas del SAP2000 para comprobación y dimensionamiento de elementos de barra de hormigón armado y de acero, así como de elementos de cáscara de hormigón armado según los Eurocódigos 2, 3 y 8 Modelar y dimensionar otros tipos de estructuras metálicas y de hormigón armado y pretensados Importar y exportar modelos y datos para interacción con otros programas Destinatarios Estudiantes y profesionales de ingeniería.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web/media/sap200.jpg" /></entry><entry><title type="html">Visita IFEMA feria de la CLIMATIZACIÓN Y REFRIGERACIÓN</title><link href="http://localhost:4000/web/2017/02/17/Visita-IFEMA-feria-de-la-CLIMATIZACI%C3%93N-Y-REFRIGERACI%C3%93N.html" rel="alternate" type="text/html" title="Visita IFEMA feria de la CLIMATIZACIÓN Y REFRIGERACIÓN" /><published>2017-02-17T00:00:00+01:00</published><updated>2017-02-17T00:00:00+01:00</updated><id>http://localhost:4000/web/2017/02/17/Visita%20IFEMA%20feria%20de%20la%20CLIMATIZACI%C3%93N%20Y%20REFRIGERACI%C3%93N</id><content type="html" xml:base="http://localhost:4000/web/2017/02/17/Visita-IFEMA-feria-de-la-CLIMATIZACI%C3%93N-Y-REFRIGERACI%C3%93N.html">&lt;p&gt;La visita tendrá lugar el viernes 3 de Marzo, con salida a las 8:00 y vuelta a Valladolid alrededor de las 17:00.&lt;/p&gt;
+
+&lt;p&gt;Para inscribiros en la visita debéis rellenar el siguiente &lt;a href=&quot;https://goo.gl/forms/CUrBxQrjYGmBehUy2&quot;&gt;formulario&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Una vez rellenéis el formulario se os contestará con las instrucciones para obtener la acreditación.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/web/media/plazasAgotadas.jpg&quot; alt=&quot;plazasAgotadas.jpg&quot; /&gt;&lt;/p&gt;</content><author><name></name></author><summary type="html">La visita tendrá lugar el viernes 3 de Marzo, con salida a las 8:00 y vuelta a Valladolid alrededor de las 17:00.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/web/media/plazasAgotadas.jpg" /></entry></feed>

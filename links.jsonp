@@ -1,0 +1,30 @@
+---
+---
+callback([
+  {
+    "text": "inicio",
+    "href": "{{site.url}}{{site.baseurl}}"
+  }
+  {
+    "text": "ayuda",
+    "href": "{{site.url}}{{site.baseurl}}/ayuda/"
+  }
+  {
+    "text": "buscar",
+    "href": "{{site.url}}{{site.baseurl}}/buscar/"
+  }
+  {
+    "text": "contactar",
+    "href": "{{site.url}}{{site.baseurl}}/contactar/"
+  }
+  {
+    "text": "FAQ",
+    "href": "{{site.url}}{{site.baseurl}}/FAQ/"
+  }
+{% for post in site.posts %}
+  {
+    "text": "{{post.title | replace:'"','\"'}}",
+    "href": "{{site.url}}{{site.baseurl}}{{post.url}}"
+  } {% unless forloop.last %},{% endunless%}
+{% endfor %}
+])

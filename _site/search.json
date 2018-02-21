@@ -1,0 +1,38 @@
+[
+  
+    {
+      "title"    : "Matlab para Ingenier@s (2ª edición)",
+      "url"      : "http://localhost:4000/web/2018/02/12/Matlab-para-Ingenier@s-(2%C2%AA-edici%C3%B3n).html",
+      "image"    : "http://localhost:4000/web/media/matlab.jpg",
+      "date"     : "12/02/2018"
+    } ,
+  
+    {
+      "title"    : "Big Van Ciencia participará en la imposición de insignias de ingenierosVA en la Escuela de Ingenierías Industriales",
+      "url"      : "http://localhost:4000/web/2017/10/18/Big-Van-Ciencia-participar%C3%A1-en-la-imposici%C3%B3n-de-insignias-de-ingenierosVA-en-la-Escuela-de-Ingenier%C3%ADas-Industriales.html",
+      "image"    : "http://localhost:4000/web/media/bigvanCiencia.jpg",
+      "date"     : "18/10/2017"
+    } ,
+  
+    {
+      "title"    : "III Concurso Blape de Construcción de Grúas",
+      "url"      : "http://localhost:4000/web/2017/10/17/III-Concurso-Blape-de-Construcci%C3%B3n-de-Gr%C3%BAas.html",
+      "image"    : "http://localhost:4000/web/media/CARTEL_CONCURSO_DE_GRUAS.jpg",
+      "date"     : "17/10/2017"
+    } ,
+  
+    {
+      "title"    : "CURSO SAP2000 PROFESIONAL - VALLADOLID",
+      "url"      : "http://localhost:4000/web/2017/02/21/CURSO-SAP2000-PROFESIONAL-VALLADOLID.html",
+      "image"    : "http://localhost:4000/web/media/sap200.jpg",
+      "date"     : "21/02/2017"
+    } ,
+  
+    {
+      "title"    : "Visita IFEMA feria de la CLIMATIZACIÓN Y REFRIGERACIÓN",
+      "url"      : "http://localhost:4000/web/2017/02/17/Visita-IFEMA-feria-de-la-CLIMATIZACI%C3%93N-Y-REFRIGERACI%C3%93N.html",
+      "image"    : "http://localhost:4000/web/media/plazasAgotadas.jpg",
+      "date"     : "17/02/2017"
+    } 
+  
+]
