@@ -78,8 +78,8 @@ keep_files: [media, assets/logo, assets/gif]
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://fulas.github.io/web/'
-  relativeLinks: 'http://fulas.github.io/web/links.jsonp'
+  siteurl: 'http://dele-eii.github.io/'
+  relativeLinks: 'http://dele-eii.github.io//links.jsonp'
   media: 'media'
   metadata:
     _posts:
