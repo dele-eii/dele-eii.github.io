@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-@import "bootstrap.min.css";
+@import "bootstrap.css";
 
 #gif {
   background:  url({{ '/assets/gif/timelapse.gif' | absolute_url }}) no-repeat center bottom;
