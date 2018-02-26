@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-@import url("{{site.url}}{{site.baseurl}}/assets/css/bootstrap.css");
+@import "bootstrap";
 
 #gif {
   background:  url({{ '/assets/gif/timelapse.gif' | absolute_url }}) no-repeat center bottom;
