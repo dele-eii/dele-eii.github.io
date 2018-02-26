@@ -16,7 +16,7 @@
 title: "Delegación EII"
 email: raullazaro94@gmail.com
 description: "Delagación de Alumnos de la EII"
-url: https://alumnos.eii.uva.es # the base hostname & protocol for your site, e.g. http://example.com
+url:  # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 twitter: DELE_EII_UVA
 facebook: DELE.EII.UVA
