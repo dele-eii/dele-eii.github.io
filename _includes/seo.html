@@ -4,11 +4,7 @@
   {%- assign seo_title = page.title | append: " " | append: site.title_separator | append: " " | append: site.title -%}
 {%- endif -%}
 
-{%- if seo_title -%}
-  {%- assign seo_title = seo_title | markdownify | strip_html | strip_newlines | escape_once -%}
-{%- endif -%}
-
-{%- assign canonical_url = page.url | replace: "index.html", "" | absolute_url %}
+{%- assign canonical_url = seo_url | append: page.url -%}
 
 {%- assign seo_description = page.description | default: page.excerpt | default: site.description -%}
 {%- if seo_description -%}
