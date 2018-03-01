@@ -45,7 +45,9 @@ highlighter: rouge
 kramdown:
   # parse markdown inside block-level HTML tag
   parse_block_html: true
-
+sass:
+    style: compressed
+    
 # Plugins (previously gems:)
 plugins:
   - jekyll-seo-tag
@@ -78,7 +80,11 @@ defaults:
       type: posts
     values:
       layout: posts
-
+  - scope:
+      path: ""
+      type: pages
+    values:
+      image: /assets/logo/logoDele.png
 include:
   - _pages
 # Exclude from processing.
