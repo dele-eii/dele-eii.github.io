@@ -126,7 +126,7 @@ prose:
       - name: "image"
         field:
           element: "text"
-          label: "image"
+          label: "imagen"
           value:
       - name: "disqus"
         field:
