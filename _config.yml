@@ -19,10 +19,17 @@ email: alumnos.eii@uva.es
 description: "Delagación de Alumnos de la EII"
 url: http://alumnos.eii.uva.es # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
+locale: "es-ES"
+og_image:
 twitter: DELE_EII_UVA
 facebook: DELE.EII.UVA
+app_id:
 telegram: Dele_EII
 canalTelegram: Dele_EII_UVA
+social:
+  type                   : Organization # Person or Organization (defaults to Person)
+  name                   : # If the user or organization name differs from the site's name
+  links: # An array of links to social media profiles
 
 # Build settings
 markdown: kramdown
