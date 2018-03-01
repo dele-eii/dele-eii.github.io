@@ -16,7 +16,7 @@ permalink: /buscar/
 SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
   resultsContainer: document.getElementById('results-container'),
-  searchResultTemplate: '<div class="col-12 col-sm-4"><div class="card"><a href="{url}"><img class="card-img-top" src="{image}"></a><div class="card-body"><h5 class="card-title">{title}</h5><p class="card-text">{date}</p><a href="{url}" class="btn btn-primary">Leer</a></div></div><br></div>',
+  searchResultTemplate: '<div class="col-12 col-sm-4"><div class="card"><a href="{url}"><img class="card-img-top" src="{image}"/></a><div class="card-body"><h5 class="card-title">{title}</h5><p class="card-text small">{date}</p><p class="card-text">{description}</p><a href="{url}" class="btn btn-primary">Leer</a></div></div><br></div>',
   noResultsText: ("<h5 class='ml-3'>SIN RESULTADOS</h5>"),
   json: '{{ 'search.json' | absolute_url }}'
 })
