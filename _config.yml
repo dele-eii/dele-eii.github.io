@@ -20,7 +20,7 @@ description: "Delagación de Alumnos de la EII"
 url: http://alumnos.eii.uva.es # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 locale: "es-ES"
-og_image:
+og_image: /assets//logo/logoDele.jpg
 twitter: DELE_EII_UVA
 facebook: DELE.EII.UVA
 app_id:
