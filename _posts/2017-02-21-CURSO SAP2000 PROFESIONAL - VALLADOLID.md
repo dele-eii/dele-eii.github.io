@@ -3,6 +3,7 @@ layout: posts
 disqus: true
 image: /media/sap200.jpg
 published: true
+description: Destinatarios Estudiantes y profesionales de ingeniería.
 title: CURSO SAP2000 PROFESIONAL - VALLADOLID
 ---
 <div class="row">

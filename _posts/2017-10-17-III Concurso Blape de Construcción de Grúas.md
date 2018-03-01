@@ -3,6 +3,7 @@ layout: posts
 disqus: true
 image: /media/CARTEL_CONCURSO_DE_GRUAS.jpg
 published: true
+description: Viernes 3 de Noviembre de 2017
 title: III Concurso Blape de Construcción de Grúas
 ---
 <div class="row">

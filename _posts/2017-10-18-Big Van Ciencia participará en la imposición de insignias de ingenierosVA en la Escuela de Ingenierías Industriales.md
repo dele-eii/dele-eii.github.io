@@ -3,6 +3,7 @@ layout: posts
 disqus: true
 image: /media/bigvanCiencia.jpg
 published: true
+description: Los alumnos recién graduados recibirán un distintivo por parte del Colegio Oficial de Graduados en Ingeniería en reconocimiento a la finalización de sus estudios el jueves 26 de octubre a las 19:00 horas.
 title: >-
   Big Van Ciencia participará en la imposición de insignias de ingenierosVA en
   la Escuela de Ingenierías Industriales

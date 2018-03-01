@@ -4,7 +4,10 @@
   </a>
   <div class="card-body">
     <h5 class="card-title">{{ post.title }}</h5>
-    <p class="card-text">{{ post.date | date: "%d/%m/%Y" }}</p>
+    <p class="card-text small">{{ post.date | date: "%d/%m/%Y" }}</p>
+    {% if post.description %}
+      <p class="card-text">{{ post.description }}</p>
+    {% endif %}
     <a href="{{site.url}}{{site.baseurl}}{{ post.url }}" class="btn btn-primary">Leer</a>
   </div>
 </div>

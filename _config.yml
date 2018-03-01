@@ -33,11 +33,12 @@ social:
     - https://twitter.com/DELE_EII_UVA
     - https://www.facebook.com/DELE.EII.UVA
 webmaster_verifications:
-  google:
+  google: aNoPj0Ko0ruC_AKTpeZR0Scsx_sbUK00i9T72ov81qc
   bing:
   alexa:
   yandex:
   baidu:
+google_analytics: UA-114919928-1
 
 # Build settings
 markdown: kramdown
@@ -47,7 +48,7 @@ kramdown:
   parse_block_html: true
 sass:
     style: compressed
-    
+
 # Plugins (previously gems:)
 plugins:
   - jekyll-seo-tag
@@ -112,16 +113,26 @@ prose:
         field:
           element: "hidden"
           value: "posts"
+      - name: "title"
+        field:
+          element: "text"
+          label: "Titulo"
+          value:
+      - name: "description"
+        field:
+          element: "text"
+          label: "Descripcion"
+          value:
+      - name: "image"
+        field:
+          element: "text"
+          label: "image"
+          value:
       - name: "disqus"
         field:
           element: "checkbox"
           label: "Comentarios"
           value: true
-      - name: "image"
-        field:
-          element: "text"
-          label: "image"
-          value: /assets/gif/timelapse.gif
       - name: "published"
         field:
           element: "checkbox"

@@ -3,6 +3,7 @@ layout: posts
 disqus: true
 image: /media/plazasAgotadas.jpg
 published: true
+description: Viernes 3 de Marzo, con salida a las 8:00 y vuelta a Valladolid alrededor de las 17:00.
 title: Visita IFEMA feria de la CLIMATIZACIÓN Y REFRIGERACIÓN
 ---
 La visita tendrá lugar el viernes 3 de Marzo, con salida a las 8:00 y vuelta a Valladolid alrededor de las 17:00.        

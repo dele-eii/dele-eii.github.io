@@ -3,6 +3,7 @@ layout: posts
 disqus: true
 image: /media/matlab.jpg
 published: true
+description: Del 12 al 16 de marzo 2018 <br >De 16h a 20h30 (4h de curso + 30 minutos de descanso)
 title: Matlab para Ingenier@s (2ª edición)
 ---
 <div class="row">
