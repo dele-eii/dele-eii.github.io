@@ -7,7 +7,7 @@
 @import "bootstrap.min";
 
 #gif {
-  background:  url({{ '/assets/gif/timelapse.gif' | absolute_url }}) no-repeat center bottom;
+  //background:  url({{ '/assets/gif/timelapse.gif' | absolute_url }}) no-repeat center bottom;
   background-size: cover;
 }
 
