@@ -43,57 +43,62 @@
 - nombre: Másteres
   masteres:
     - nombre: Industrial
-      horario:
-      examenes:
-      asignaturas:
-      plan:
+      horario: https://www.eii.uva.es/titulaciones/masteroficial.php?id=511&tema=horario
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/511examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/511/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/511.pdf
     - nombre: Logística
-      horario:
-      examenes:
-      asignaturas:
-      plan:
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/514.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/514examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/514/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/514.pdf
     - nombre: Automoción
-      horario:
-      examenes:
-      asignaturas:
-      plan:
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/518.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/518examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/518/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/518.pdf
     - nombre: Prevención
-      horario:
-      examenes:
-      asignaturas:
-      plan:
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/519.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/519examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/519/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/519.pdf
+    - nombre: Procesos y<br>Sistemas<br>Industriales
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/521.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/521examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/521/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/521.pdf
     - nombre: Energía
-      horario:
-      examenes:
-      asignaturas:
-      plan:
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/523.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/523examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/523/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/523.pdf
     - nombre: Ambiental
-      horario:
-      examenes:
-      asignaturas:
-      plan:
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/526.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/526examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/526/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/526.pdf
     - nombre: Acustica
-      horario:
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/527.pdf
       examenes:
-      asignaturas:
-      plan:
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/527/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/527.pdf
     - nombre: Química
-      horario:
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/542.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/542examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/542/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/542.pdf
+    - nombre: Informática<br>Industrial
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/543.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/543examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/543/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/543.pdf
+    - nombre: Termodinámica<br>de Fluidos
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/554.pdf
       examenes:
-      asignaturas:
-      plan:
-    - nombre: Informática <br> Industrial
-      horario:
-      examenes:
-      asignaturas:
-      plan:
-    - nombre: Termodinámica <br> de Fluidos
-      horario:
-      examenes:
-      asignaturas:
-      plan:
-    - nombre: Electrónica y <br> Automática
-      horario:
-      examenes:
-      asignaturas:
-      plan:
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/554/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/554.pdf
+    - nombre: Electrónica y<br>Automática
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/568.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_17-18/568examenes.pdf
+      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2017/568/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteres/planes/568.pdf
