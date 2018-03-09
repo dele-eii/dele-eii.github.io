@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: "Delegación EII"
 email: alumnos.eii@uva.es
-description: "Delagación de Alumnos de la EII"
+description: "Delegación de Alumnos de la EII"
 url: http://alumnos.eii.uva.es # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 lang: es_ES
