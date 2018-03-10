@@ -128,7 +128,7 @@ prose:
         field:
           element: "text"
           label: "imagen"
-          value:
+          value: "/media/"
       - name: "disqus"
         field:
           element: "checkbox"
