@@ -27,12 +27,14 @@ facebook:
   app_id:
 telegram: Dele_EII
 canalTelegram: Dele_EII_UVA
+instagram: DELE_EII_UVA
 social:
   type: Organization # Person or Organization (defaults to Person)
   links: # An array of links to social media profiles
     - https://twitter.com/DELE_EII_UVA
     - https://www.facebook.com/DELE.EII.UVA
     - https://telegram.me/Dele_EII_UVA
+    - https://www.instagram.com/dele_eii_uva/
 webmaster_verifications:
   google: aNoPj0Ko0ruC_AKTpeZR0Scsx_sbUK00i9T72ov81qc
   bing:
