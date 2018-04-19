@@ -121,6 +121,11 @@ prose:
           element: "text"
           label: "Titulo"
           value:
+      - name: "date"
+        field:
+          element: "text"
+          label: "Fecha"
+          value: CURRENT_DATETIME
       - name: "description"
         field:
           element: "text"
