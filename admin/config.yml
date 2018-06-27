@@ -1,3 +1,5 @@
 backend:
   name: github
   repo: dele-eii/dele-eii.github.io # Path to your Github repository
+publish_mode: editorial_workflow
+media_folder: "media"
