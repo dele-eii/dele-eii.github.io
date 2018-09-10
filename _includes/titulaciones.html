@@ -26,7 +26,7 @@
              {% for master in titulacion.masteres %}
                  <li><button class="dropdown-item dropdown-toggle" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                  {{ master.nombre }}
-                  </button>
+                  </button></li>
                  {% if forloop.last == true %}
                  {% else %}
                 {% endif %}
@@ -36,7 +36,6 @@
                   <li><a class="dropdown-item" href={{ master.asignaturas }}>Asignaturas</a></li>
                   <li><a class="dropdown-item" href={{ master.plan }}>Plan</a></li>
                 </ul>
-                </li>
             {% endfor %}
           {% else %}
            <li><a class="dropdown-item" href={{ titulacion.horario }}>Horario</a></li>
