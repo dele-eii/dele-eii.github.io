@@ -16,7 +16,7 @@ $('.dropdown').on("hidden.bs.dropdown", function() {
      <div class="col-6 col-sm-3">
        <br>
        <div class="dropdown">
-         <button class="btn btn-sm btn-block btn-dark dropdown-toggle" type="button" id="dropdownButton" data-toggle="dropdown">
+         <button class="btn btn-sm btn-block btn-dark dropdown-toggle" type="button" id="menu" data-toggle="dropdown">
            {{ titulacion.nombre }}
          </button>
         <ul class="dropdown-menu">
@@ -25,9 +25,6 @@ $('.dropdown').on("hidden.bs.dropdown", function() {
                  <li class="dropdown-item dropdown-submenu"><a href="#" class="dropdown-toggle" id="menu" data-toggle="dropdown" >
                  {{ master.nombre }}
                   </a>
-                 {% if forloop.last == true %}
-                 {% else %}
-                {% endif %}
                 <ul class="dropdown-menu">
                   <li class="dropdown-item"><a href={{ master.horario }}>Horario</a></li>
                   <li class="dropdown-item"><a href={{ master.examenes }}>Exámenes</a></li>
