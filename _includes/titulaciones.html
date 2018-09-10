@@ -3,15 +3,20 @@
      <div class="col-6 col-sm-3">
        <br>
        <div class="dropdown">
+        {% if titulacion.nombre == Másteres %}
+         <button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" aria-haspopup="true" aria-expanded="false">
+           {{ titulacion.nombre }}
+         </button>
+        {% else %}
          <button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            {{ titulacion.nombre }}
          </button>
+        {% endif %}
          <div class="dropdown-menu" aria-labelledby="dropdownButton">
            {% if titulacion.masteres %}
              {% for master in titulacion.masteres %}
-               <div>
                 <div class="dropdown">
-                 <button class="dropdown-item" type="button" id="dropdownButton" aria-haspopup="true" aria-expanded="false">
+                 <button class="dropdown-item" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                  {{ master.nombre }}
                  </button>
                  {% if forloop.last == true %}
@@ -25,7 +30,6 @@
                   <a class="dropdown-item" href={{ master.plan }}>Plan</a>
                 </div>
                </div>
-              </div>
             {% endfor %}
           {% else %}
            <a class="dropdown-item" href={{ titulacion.horario }}>Horario</a>
