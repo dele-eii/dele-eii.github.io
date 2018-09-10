@@ -22,9 +22,9 @@ $('.dropdown').on("hidden.bs.dropdown", function() {
         <ul class="dropdown-menu">
            {% if titulacion.masteres %}
              {% for master in titulacion.masteres %}
-                 <li class="dropdown-item dropdown-submenu"><button type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                 <li class="dropdown-item dropdown-submenu"><a href="#" id="menu" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                  {{ master.nombre }}
-                  </button></li>
+                  </a></li>
                  {% if forloop.last == true %}
                  {% else %}
                 {% endif %}
