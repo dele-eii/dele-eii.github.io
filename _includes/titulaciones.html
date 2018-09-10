@@ -17,8 +17,8 @@
    {% for titulacion in site.data.titulaciones %}
      <div class="col-6 col-sm-3">
        <br>
-       <div class="dropdown">
-         <button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+       <ul class="dropdown">
+         <li><button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            {{ titulacion.nombre }}
          </button>
         <ul class="dropdown-menu" aria-labelledby="dropdownButton">
@@ -29,7 +29,6 @@
                   </button>
                  {% if forloop.last == true %}
                  {% else %}
-                <div class="dropdown-divider"></div>
                 {% endif %}
                 <ul class="dropdown-menu" aria-labelledby="dropdownButton">
                   <li><a class="dropdown-item" href={{ master.horario }}>Horario</a></li>
@@ -46,7 +45,8 @@
            <li><a class="dropdown-item" href={{ titulacion.plan }}>Plan</a></li>
            {% endif %}
          </ul>
-       </div>
+        </li>
+       </ul>
      </div>
    {% endfor %}
  </div>
