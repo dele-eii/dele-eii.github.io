@@ -22,7 +22,7 @@ $('.dropdown').on("hidden.bs.dropdown", function() {
         <ul class="dropdown-menu">
            {% if titulacion.masteres %}
              {% for master in titulacion.masteres %}
-                 <li class="dropdown-item dropdown-submenu"><a href="#" class="dropdown-toggle" id="menu" data-toggle="dropdown" >
+                 <li class="dropdown-item dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown" >
                  {{ master.nombre }}
                   </a>
                 <ul class="dropdown-menu">
