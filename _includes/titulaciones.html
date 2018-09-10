@@ -1,47 +1,45 @@
 <script>
- $( document ).ready( function () {
-    $( '.navbar a.dropdown-toggle' ).on( 'click', function ( e ) {
-        var $el = $( this );
-        var $parent = $( this ).offsetParent( ".dropdown-menu" );
-        $( this ).parent( "li" ).toggleClass( 'show' );
+$('.dropdown-submenu > a').on("click", function(e) {
+    var submenu = $(this);
+    $('.dropdown-submenu .dropdown-menu').removeClass('show');
+    submenu.next('.dropdown-menu').addClass('show');
+    e.stopPropagation();
+});
 
-        if ( !$parent.parent().hasClass( 'navbar-nav' ) ) {
-            $el.next().css( { "top": $el[0].offsetTop, "left": $parent.outerWidth() - 4 } );
-        }
-        $( '.navbar-nav li.show' ).not( $( this ).parents( "li" ) ).removeClass( "show" );
-        return false;
-    } );
-} );
+$('.dropdown').on("hidden.bs.dropdown", function() {
+    // hide any open menus when parent closes
+    $('.dropdown-menu.show').removeClass('show');
+});
 </script>
 <div class="row">
    {% for titulacion in site.data.titulaciones %}
      <div class="col-6 col-sm-3">
        <br>
        <div class="dropdown">
-         <button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+         <button class="btn btn-sm btn-block btn-dark dropdown-toggle" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            {{ titulacion.nombre }}
          </button>
-        <ul class="dropdown-menu" aria-labelledby="dropdownButton">
+        <ul class="dropdown-menu">
            {% if titulacion.masteres %}
              {% for master in titulacion.masteres %}
-                 <li><button class="dropdown-item dropdown-toggle" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                 <li class="dropdown-item dropdown-submenu"><button type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                  {{ master.nombre }}
                   </button></li>
                  {% if forloop.last == true %}
                  {% else %}
                 {% endif %}
-                <ul class="dropdown-menu" aria-labelledby="dropdownButton">
-                  <li><a class="dropdown-item" href={{ master.horario }}>Horario</a></li>
-                  <li><a class="dropdown-item" href={{ master.examenes }}>Exámenes</a></li>
-                  <li><a class="dropdown-item" href={{ master.asignaturas }}>Asignaturas</a></li>
-                  <li><a class="dropdown-item" href={{ master.plan }}>Plan</a></li>
+                <ul class="dropdown-menu">
+                  <li class="dropdown-item"><a href={{ master.horario }}>Horario</a></li>
+                  <li class="dropdown-item"><a href={{ master.examenes }}>Exámenes</a></li>
+                  <li class="dropdown-item"><a href={{ master.asignaturas }}>Asignaturas</a></li>
+                  <li class="dropdown-item"><a href={{ master.plan }}>Plan</a></li>
                 </ul>
             {% endfor %}
           {% else %}
-           <li><a class="dropdown-item" href={{ titulacion.horario }}>Horario</a></li>
-           <li><a class="dropdown-item" href={{ titulacion.examenes }}>Exámenes</a></li>
-           <li><a class="dropdown-item" href={{ titulacion.asignaturas }}>Asignaturas</a></li>
-           <li><a class="dropdown-item" href={{ titulacion.plan }}>Plan</a></li>
+           <li class="dropdown-item"><a href={{ titulacion.horario }}>Horario</a></li>
+           <li class="dropdown-item"><a href={{ titulacion.examenes }}>Exámenes</a></li>
+           <li class="dropdown-item"><a href={{ titulacion.asignaturas }}>Asignaturas</a></li>
+           <li class="dropdown-item"><a href={{ titulacion.plan }}>Plan</a></li>
            {% endif %}
         </ul>
        </div>
