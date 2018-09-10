@@ -1,3 +1,10 @@
+<script>
+  $(function() {
+    $("ul.dropdown-menu").on("click", "[data-keepOpenOnClick]", function(e) {
+        e.stopPropagation();
+    });
+});
+</script>
 <div class="row">
   {% for titulacion in site.data.titulaciones %}
     <div class="col-6 col-sm-3">
@@ -11,7 +18,7 @@
             {% for master in titulacion.masteres %}
             <div>
               <div class="dropdown">
-                <button class="dropdown-item" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                <button class="dropdown-item" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" data-keepOpenOnClick>
                   {{ master.nombre }}
                 </button>
                 {% if forloop.last == true %}
