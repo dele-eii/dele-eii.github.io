@@ -9,18 +9,22 @@
          <div class="dropdown-menu" aria-labelledby="dropdownButton">
            {% if titulacion.masteres %}
              {% for master in titulacion.masteres %}
-               <button class="dropdown-item" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-               {{ master.nombre }}
-               </button>
-               {% if forloop.last == true %}
-               {% else %}
-              <div class="dropdown-divider"></div>
-              {% endif %}
-              <div class="dropdown-menu" aria-labelledby="dropdownButton">
-                <a class="dropdown-item" href={{ master.horario }}>Horario</a>
-                <a class="dropdown-item" href={{ master.examenes }}>Exámenes</a>
-                <a class="dropdown-item" href={{ master.asignaturas }}>Asignaturas</a>
-                <a class="dropdown-item" href={{ master.plan }}>Plan</a>
+               <div>
+                <div class="dropdown">
+                 <button class="dropdown-item" type="button" id="dropdownButton" aria-haspopup="true" aria-expanded="false">
+                 {{ master.nombre }}
+                 </button>
+                 {% if forloop.last == true %}
+                 {% else %}
+                <div class="dropdown-divider"></div>
+                {% endif %}
+                <div class="dropdown-menu" aria-labelledby="dropdownButton">
+                  <a class="dropdown-item" href={{ master.horario }}>Horario</a>
+                  <a class="dropdown-item" href={{ master.examenes }}>Exámenes</a>
+                  <a class="dropdown-item" href={{ master.asignaturas }}>Asignaturas</a>
+                  <a class="dropdown-item" href={{ master.plan }}>Plan</a>
+                </div>
+               </div>
               </div>
             {% endfor %}
           {% else %}
