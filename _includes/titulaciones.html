@@ -3,13 +3,13 @@
      <div class="col-6 col-sm-3">
        <br>
        <div class="dropdown">
-         <button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" aria-haspopup="true" aria-expanded="false">
+         <button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            {{ titulacion.nombre }}
          </button>
          <div class="dropdown-menu" aria-labelledby="dropdownButton">
            {% if titulacion.masteres %}
              {% for master in titulacion.masteres %}
-               <button class="dropdown-item" type="button" id="dropdownButton" aria-haspopup="true" aria-expanded="false">
+               <button class="dropdown-item" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                {{ master.nombre }}
                </button>
                {% if forloop.last == true %}
