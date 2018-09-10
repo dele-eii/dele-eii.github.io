@@ -48,7 +48,7 @@ Sobre las revisiones
 - Toda prueba de evaluación puede ser revisada por el alumno ante su profesor, bien por solicitud o en los plazos que éste indique.
 
 Si no estoy conforme con la revisión, ¿puedo reclamarlo?
-- Sí, consulta como hacerlo en el [ROA](http://www2.uva.es/export/sites/uva/1.lauva/1.03.vicerrectorados/1.03.03.profesorado/_documentos/2-ROA-MODIFICADO-CGOB-24-07-12.pdf) o acude a la Delegación ([Contactar]({{site.url}}{{site.baseurl}}/Contactar/)).
+- Sí, consulta como hacerlo en el [ROA](http://www2.uva.es/export/sites/uva/1.lauva/1.03.vicerrectorados/1.03.03.profesorado/_documentos/2-ROA-MODIFICADO-CGOB-24-07-12.pdf) o acude a la Delegación ([Contactar]({{site.url}}{{site.baseurl}}/contactar/)).
 
 Quejas
 - Las quejas son un documento formal presentado para reclamar alguna disconformidad como las anteriormente expuestas u otras, recomendamos que acudas a la Delegación antes de presentarla por tu cuenta
