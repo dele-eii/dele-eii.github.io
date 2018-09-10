@@ -1,23 +1,31 @@
- <div class="row">
+<script>
+ $( document ).ready( function () {
+    $( '.navbar a.dropdown-toggle' ).on( 'click', function ( e ) {
+        var $el = $( this );
+        var $parent = $( this ).offsetParent( ".dropdown-menu" );
+        $( this ).parent( "li" ).toggleClass( 'show' );
+
+        if ( !$parent.parent().hasClass( 'navbar-nav' ) ) {
+            $el.next().css( { "top": $el[0].offsetTop, "left": $parent.outerWidth() - 4 } );
+        }
+        $( '.navbar-nav li.show' ).not( $( this ).parents( "li" ) ).removeClass( "show" );
+        return false;
+    } );
+} );
+</script>
+<div class="row">
    {% for titulacion in site.data.titulaciones %}
      <div class="col-6 col-sm-3">
        <br>
        <div class="dropdown">
-        {% if forloop.last == false %}
          <button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
            {{ titulacion.nombre }}
          </button>
         <div class="dropdown-menu" aria-labelledby="dropdownButton">
-        {% else %}
-         <button class="btn btn-sm btn-block btn-dark" type="button" id="dropdownButton" aria-haspopup="true" aria-expanded="true">
-           {{ titulacion.nombre }}
-         </button>
-         <div class="dropdown-menu" aria-labelledby="dropdownButton" x-placement="top-start" style="position: absolute; transform: translate3d(0px, -291px, 0px); top: 0px; left: 0px; will-change: transform;">
-         {% endif %}
            {% if titulacion.masteres %}
              {% for master in titulacion.masteres %}
                 <div class="dropdown">
-                 <button class="dropdown-item" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                 <button class="dropdown-item dropdown-toggle" type="button" id="dropdownButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                  {{ master.nombre }}
                  </button>
                  {% if forloop.last == true %}
