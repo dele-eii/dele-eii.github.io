@@ -39,10 +39,10 @@
                 </li>
             {% endfor %}
           {% else %}
-           <a class="dropdown-item" href={{ titulacion.horario }}>Horario</a>
-           <a class="dropdown-item" href={{ titulacion.examenes }}>Exámenes</a>
-           <a class="dropdown-item" href={{ titulacion.asignaturas }}>Asignaturas</a>
-           <a class="dropdown-item" href={{ titulacion.plan }}>Plan</a>
+           <li><a class="dropdown-item" href={{ titulacion.horario }}>Horario</a></li>
+           <li><a class="dropdown-item" href={{ titulacion.examenes }}>Exámenes</a></li>
+           <li><a class="dropdown-item" href={{ titulacion.asignaturas }}>Asignaturas</a></li>
+           <li><a class="dropdown-item" href={{ titulacion.plan }}>Plan</a></li>
            {% endif %}
         </ul>
        </div>
