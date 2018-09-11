@@ -7,7 +7,7 @@
 @import "bootstrap.min";
 
 #gif {
-  background:  url({{ '/media/aulariovistageneral.jpg' | absolute_url }}) no-repeat center;
+  background:  url({{ '/media/aulariovistageneral.jpg' | absolute_url }}) no-repeat center center;
   background-size: cover;
 }
 
