@@ -3,7 +3,7 @@ layout: posts
 date: '2018-09-18 17:02 +0200'
 image: /media/aularioIndUVa.jpg
 disqus: false
-published: true
+published: false
 title: Quejas IndUVa
 description: Cuentanos los problemas del nuevo edificio
 ---
