@@ -42,4 +42,4 @@ Puedes contactarnos por <a class="icon-telegram link-telegram" href="https://tel
     <!-- <input type="hidden" name="_next" value="{{site.url}}{{site.baseurl}}/contactar/">-->
 </form>
 
-{% include validation.html %}
+{% include validation.html %} 
