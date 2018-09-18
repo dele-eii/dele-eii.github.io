@@ -3,6 +3,6 @@ layout: posts
 date: '2018-09-18 17:02 +0200'
 image: /media/aularioIndUVa.jpg
 disqus: true
-published: false
+published: false 
 title: Quejas IndUVa
 ---
