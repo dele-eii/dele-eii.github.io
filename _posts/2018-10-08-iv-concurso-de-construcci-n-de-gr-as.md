@@ -16,7 +16,7 @@ El viernes, día 26 de Octubre de 2018, se organizará en la Escuela de Ingenier
 
 El concurso se llevará a cabo en dos fases, la construcción,  por la mañana (12:15-16:00) y la carga, por la tarde (19:00-21:00).
 
-Para la construcción de la grúa se utilizarán palos de madera normalizados unidos con cola termofusible y una base de aglomerado. En la evaluación (en la cual habrá una persona de IngenierosVA, una persona de la Delegación de Alumnos y un profesor de la EII), se valorará tanto la carga (90%) que pueda aguantar y la estética (10%). Más información en las [Bases del concurso] (https://drive.google.com/open?id=111_QjostVHpryBV9r9aO4DlDpGiXS8Ed)
+Para la construcción de la grúa se utilizarán palos de madera normalizados unidos con cola termofusible y una base de aglomerado. En la evaluación (en la cual habrá una persona de IngenierosVA, una persona de la Delegación de Alumnos y un profesor de la EII), se valorará tanto la carga (90%) que pueda aguantar y la estética (10%). Más información en las [Bases del concurso](https://drive.google.com/open?id=111_QjostVHpryBV9r9aO4DlDpGiXS8Ed)
 
 La organización del concurso os proporcionará todo el material de construcción que requiráis, tal y como establece en las bases y podréis añadir cualquier elemento estético que deseéis.
 
