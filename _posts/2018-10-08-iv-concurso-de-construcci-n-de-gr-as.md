@@ -25,10 +25,10 @@ La inscripción:
 - Se deberá cumplimentar el formulario antes del 24 de octubre
 - Se notificará a los equipos la inscripción en el concurso, de haber superado los 15 equipos inscritos se comunicará la posición en la lista de espera.
 
-<iframe src="https://goo.gl/forms/XdEXmD69fCpeoVZ82" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
 
 </div>
 <div class="col-12 col-sm-6">
 
 </div>
 </div>
+<iframe src="https://goo.gl/forms/XdEXmD69fCpeoVZ82" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
