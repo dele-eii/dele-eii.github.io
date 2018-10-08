@@ -27,7 +27,7 @@ La inscripción:
 
 </div>
 <div class="col-12 col-sm-6">
-
+![]({{site.baseurl}}/media/CARTEL%20CONCURSO%20DE%20GRUAS%20(1).png)
 </div>
 </div>
 <iframe src="https://goo.gl/forms/XdEXmD69fCpeoVZ82" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
