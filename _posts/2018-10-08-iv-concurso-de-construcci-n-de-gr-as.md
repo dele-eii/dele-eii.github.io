@@ -5,14 +5,13 @@ image: /media/CARTEL%20CONCURSO%20DE%20GRUAS%20(1).png
 disqus: true
 published: true
 title: IV Concurso de Construcción de Grúas
-description: ''
 ---
 <div class="row">
 <div class="col-12 col-sm-6">
-El viernes, día 26 de Octubre de 2018, se organizará en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce), el IV Concurso de Construcción de Grúas con palitos de madera, el cual estará organizado por la Delegación de Alumnos.
+El viernes, día **26 de Octubre de 2018**, se organizará en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce), el **IV Concurso de Construcción de Grúas** con palitos de madera, el cual estará organizado por la Delegación de Alumnos.
 
-- El equipo ganador obtendrá un premio efectivo de 200,00 € único para todo el equipo.
-- El segundo equipo obtendrá un premio efectivo de 100,00 € único para todo el equipo.
+- El equipo ganador obtendrá un premio efectivo de **200,00 €** único para todo el equipo.
+- El segundo equipo obtendrá un premio efectivo de **100,00 €** único para todo el equipo.
 
 El concurso se llevará a cabo en dos fases, la construcción,  por la mañana (12:15-16:00) y la carga, por la tarde (19:00-21:00).
 
@@ -22,7 +21,7 @@ La organización del concurso os proporcionará todo el material de construcció
 
 La inscripción:
 
-- Se deberá cumplimentar el formulario antes del 24 de octubre
+- Se deberá cumplimentar el **formulario antes del 24 de octubre**.
 - Se notificará a los equipos la inscripción en el concurso, de haber superado los 15 equipos inscritos se comunicará la posición en la lista de espera.
 
 
