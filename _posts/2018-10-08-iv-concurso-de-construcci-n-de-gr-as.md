@@ -1,10 +1,11 @@
 ---
 layout: posts
 date: '2018-10-08 09:47 +0200'
-image: /media/
+image: /media/CARTEL%20CONCURSO%20DE%20GRUAS%20(1).png
 disqus: true
-published: false
+published: true
 title: IV Concurso de Construcción de Grúas
+description: ''
 ---
 <div class="row">
 <div class="col-12 col-sm-6">
