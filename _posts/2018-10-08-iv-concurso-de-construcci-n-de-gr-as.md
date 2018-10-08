@@ -3,9 +3,8 @@ layout: posts
 date: '2018-10-08 09:47 +0200'
 image: /media/
 disqus: true
-published: true
+published: false
 title: IV Concurso de Construcción de Grúas
-description: ''
 ---
 <div class="row">
 <div class="col-12 col-sm-6">
