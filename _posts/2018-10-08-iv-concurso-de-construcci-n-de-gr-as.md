@@ -5,6 +5,7 @@ image: /media/
 disqus: true
 published: false
 title: IV Concurso de Construcción de Grúas
+description: ''
 ---
 <div class="row">
 <div class="col-12 col-sm-6">
@@ -21,10 +22,13 @@ La organización del concurso os proporcionará todo el material de construcció
 
 La inscripción:
 
-- Se deberá cumplimentar el [formulario ](https://goo.gl/forms/XdEXmD69fCpeoVZ82)antes del 24 de octubre
+- Se deberá cumplimentar el formulario antes del 24 de octubre
 - Se notificará a los equipos la inscripción en el concurso, de haber superado los 15 equipos inscritos se comunicará la posición en la lista de espera.
+
+<iframe src="https://goo.gl/forms/XdEXmD69fCpeoVZ82" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+
 </div>
 <div class="col-12 col-sm-6">
-![CARTEL_CONCURSO_DE_GRUAS.jpg]({{site.baseurl}}/media/CARTEL_CONCURSO_DE_GRUAS.jpg)
+
 </div>
 </div>
