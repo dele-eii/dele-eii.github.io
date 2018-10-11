@@ -9,7 +9,7 @@ description: ''
 ---
 <div class="row">
 <div class="col-12 col-sm-6">
-![]({{site.baseurl}}/media/CARTEL%20CONCURSO%20DE%20GRUAS%20(1).png)
+![]({{site.baseurl}}/media/SOLD%20OUT%20CONCURSO%20DE%20GR%C3%9AAS.png)
 </div>
 <div class="col-12 col-sm-6">
 El viernes, día **26 de Octubre de 2018**, se organizará en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce), el **IV Concurso de Construcción de Grúas** con palitos de madera, el cual estará organizado por la Delegación de Alumnos.
