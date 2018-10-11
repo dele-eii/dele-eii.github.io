@@ -29,4 +29,4 @@ La inscripción:
 - Se notificará a los equipos la inscripción en el concurso, de haber superado los 15 equipos inscritos se comunicará la posición en la lista de espera.
 </div>
 </div>
-<iframe src="https://goo.gl/forms/XdEXmD69fCpeoVZ82" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
+<iframe  ![]({{site.baseurl}}/)![]({{site.baseurl}}/media/SOLD%20OUT%20CONCURSO%20DE%20GR%C3%9AAS.png)src="https://goo.gl/forms/XdEXmD69fCpeoVZ82" width="100%" height="1000" frameborder="0" marginheight="0" marginwidth="0">Cargando...</iframe>
