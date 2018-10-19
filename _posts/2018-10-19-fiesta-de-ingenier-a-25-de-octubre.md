@@ -31,9 +31,9 @@ COPAS A 4€ EN ⛵ ODYSSEY⛵, Y CHUPITOS GRATIS PRESENTANDO LA ENTRADA
 📢💳¡¡ENTRADA Y AFORO LIMITADO, NO TE QUEDES SIN LA TUYA!!💳📢
 
 📞CONTACTO:📞
-- 636507511
-- 699506810
-- 679337632
+636507511
+699506810
+679337632
 
 ![]({{site.baseurl}}/media![Cartel con nombre.png]({{site.baseurl}}/media/Cartel con nombre.png)
 )
