@@ -16,13 +16,17 @@ text-align: center;
 📆 JUEVES 25 DE OCTUBRE📆
 
 🍻🎉FIESTA DE INGENIERÍA 🎉🍻
+
 🍸🔥 NEVERLAND🔥🍸
 
 🍹🍾PRIMERAS MARCAS🍾🍷
+
 📷 FOTÓGRAFO📷
+
 🎛🎙DJ🎙🎛
 
 ⌚ 23:00-1:00⌚
+
 💸8€ TODO INCLUIDO💸
 
 ➡➡DESPUÉS➡➡ 
