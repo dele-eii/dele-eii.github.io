@@ -1,11 +1,11 @@
 ---
 layout: posts
 date: '2018-10-30 10:33 +0100'
-image: /media/
+image: /media/Concurso_Gruas_2018-185.jpg)
 disqus: true
-published: false
+published: true
 title: ''
-description: ''
+description: Resultados y fotos IV Concurso de Grúas
 ---
 <div class="row">
 <div class="col-12 col-sm-6">
