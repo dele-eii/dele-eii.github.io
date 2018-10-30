@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2018-10-30 10:33 +0100'
-image: /media/Concurso_Gruas_2018-185.jpg)
+image: /media/Concurso_Gruas_2018-185.jpg
 disqus: true
 published: true
 title: ''
