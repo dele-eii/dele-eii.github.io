@@ -28,5 +28,4 @@ También tendió la mano de **IngenierosVA**, haciendo ver a los estudiantes que
 
 Os dejamos el [álbum fotos](https://photos.app.goo.gl/AUPbqjBmGc4pB2gX9) y los [resultados](https://drive.google.com/open?id=1597iYs-LBPstwLPlt_z3u8pNdIZ5YtHh) del concurso.
 
-<iframe width="666" height="500" src="https://www.youtube.com/embed/ZwvPXxOe7cw">
-</iframe>
+<iframe width="100%" height="500" src="https://www.youtube.com/embed/ZwvPXxOe7cw">Cargando...</iframe>
