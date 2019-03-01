@@ -8,7 +8,7 @@ Hay dos elementos fundamentales en toda pagina web, el dominio y el hosting.
 
 El dominio en nuestro caso es [alumnos.eii.uva.es](alumnos.eii.uva.es) y esta gestionado por la universidad por lo que cualquier cambio respecto al dominio requiere contactar con ellos.
 
-El hosting no es ortra cosa que el ordenador donde esta alojado el codigo de la web y que te lo manda para que lo veas en tu navegador.
+El hosting no es otra cosa que el ordenador donde esta alojado el codigo de la web y que te lo manda para que lo veas en tu navegador.
 
 En nuestro caso usamos [GitHub](github.com) que es un sitio para subir proyectos que usan codigo y poder compartirlos y trabajar conjuntamente en ellos.
 
