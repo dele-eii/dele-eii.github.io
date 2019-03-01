@@ -76,8 +76,8 @@ Una vez escrita una noticia se deben modificar los metadatos pulsando en el pane
 - fecha: se puede modificar la fecha de una noticia, esto afectara al orden con el que aparece en la pagina. Por defecto pone la fecha de creacion de la noticia.
 - Descripcion: Se debe escribir una breve descripcion de la noticia, si es un evento esta bien poner la fecha, lugar...
 
-> Se puede contolar el salto de linea en las descripciones con la etiqueta html *<*br>, ejemplo:  
-> Fecha: 22 *<*br>Lugar: aula b1  
+> Se puede contolar el salto de linea en las descripciones con la etiqueta html \<br>, ejemplo:  
+> Fecha: 22 \<br>Lugar: aula b1  
 > Resultado:  
 > Fecha: 22  
 > Lugar: aula b1
