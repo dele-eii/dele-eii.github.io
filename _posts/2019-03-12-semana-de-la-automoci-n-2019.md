@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2019-03-12 20:24 +0100'
-image: /media/
+image: /media/iMAGEN_Calendario_Semana_automocion.png
 disqus: true
 published: true
 title: Semana de la Automoción 2019
