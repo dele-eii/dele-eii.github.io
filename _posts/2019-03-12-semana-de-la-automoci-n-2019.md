@@ -10,6 +10,7 @@ title: Semana de la Automoción 2019
 <div class="col-12 col-sm-6">
   ![iMAGEN_Calendario_Semana_automocion.png]({{site.baseurl}}/media/iMAGEN_Calendario_Semana_automocion.png)
 
+
 </div>
 <div class="col-12 col-sm-6">
 Escuela de Ingenierías Industriales de la Universidad de Valladolid  y el Cluster FACYL organizan la Semana de la Automoción 
