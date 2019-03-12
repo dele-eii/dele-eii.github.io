@@ -3,9 +3,8 @@ layout: posts
 date: '2019-03-12 20:24 +0100'
 image: /media/
 disqus: true
-published: false
+published: true
 title: Semana de la Automoción 2019
-description: ''
 ---
 <div class="row">
 <div class="col-12 col-sm-6">
