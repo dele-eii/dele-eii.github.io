@@ -7,7 +7,7 @@ En este apartado podrás encontrar algunos documentos como normativa y actas de 
 
 **Normativa:**
 
-[Reglamento de Régimen Interno de la Escuela de Ingenirías Industriales](https://www.eii.uva.es/escuela/documentos/filesNormativa/Eii_reglamento_interno.pdf)
+[Reglamento de Régimen Interno de la Escuela de Ingenierías Industriales](https://www.eii.uva.es/escuela/documentos/filesNormativa/Eii_reglamento_interno.pdf)
 
 [Reglamento de Ordenación Académica](http://www.uva.es/export/sites/uva/1.lauva/1.04.secretariageneral/_documentos/VII.4.Reglamento-de-Ordenacion-Academica.pdf)
 
