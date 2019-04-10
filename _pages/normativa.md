@@ -11,7 +11,7 @@ En este apartado podrás encontrar algunos documentos como normativa y actas de 
 
 [Reglamento de Ordenación Académica](http://www.uva.es/export/sites/uva/1.lauva/1.04.secretariageneral/_documentos/VII.4.Reglamento-de-Ordenacion-Academica.pdf)
 
-[Reglamento de Régimen Interno del Consejo de Representantes]![]({{site.baseurl}}/)
+[Reglamento de Régimen Interno del Consejo de Representantes](https://drive.google.com/file/d/1IRd-VJOvEtN9D5aGHz2LxkaFA4FW0J3d/view?usp=sharing)
 
 **Actas Consejo de Representantes** 
 
