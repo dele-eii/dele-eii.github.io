@@ -13,3 +13,5 @@ En este apartad podrás encontrar algunos documentos como normativa y actas de l
 
 [Reglamento de Régimen Interno del Consejo de Representantes](![]({{site.baseurl}}/))
 ![]({{site.baseurl}}/)
+
+**Actas Consejo de Representantes** 
