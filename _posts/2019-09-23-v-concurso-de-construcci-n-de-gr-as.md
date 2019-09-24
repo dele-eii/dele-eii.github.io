@@ -5,11 +5,10 @@ image: /media/
 disqus: true
 published: false
 title: V Concurso de Construcción de Grúas
-description: ''
 ---
 <div class="row">
 <div class="col-12 col-sm-6">
-![]({{site.baseurl}}/media/SOLD%20OUT%20CONCURSO%20DE%20GR%C3%9AAS.png)
+![]({{site.baseurl}}/media/V%20Concurso%20de%20gr%C3%BAas.png)
 </div>
 <div class="col-12 col-sm-6">
 Hace 5 años, el primer Concurso de Construcción de Grúas de la EII de Valladolid vería la luz a manos de la Delegación de Alumnos; 8 equipos, 8 ideas, y una creatividad que sólo podía nacer de un estudiante de Ingeniería Industrial.
@@ -36,7 +35,7 @@ La organización del concurso os proporcionará todo el material de construcció
 
 La inscripción:
 
-- Se deberá cumplimentar el **formulario antes del 9 de octubre**.
+- Se deberá cumplimentar el **formulario antes del 7 de octubre**.
 - Se notificará a los equipos la inscripción en el concurso. En el caso de que se hubiesen superado los 15 equipos inscritos en el momento de la inscripción, se comunicará la posición obtenida en la lista de espera.
 </div>
 </div>
