@@ -11,13 +11,13 @@ title: V Concurso de Construcción de Grúas
 ![]({{site.baseurl}}/media/V%20Concurso%20de%20gr%C3%BAas.png)
 </div>
 <div class="col-12 col-sm-6">
-Hace 5 años, el primer Concurso de Construcción de Grúas de la EII de Valladolid vería la luz a manos de la Delegación de Alumnos; 8 equipos, 8 ideas, y una creatividad que sólo podía nacer de un estudiante de Ingeniería Industrial.
+Hace 5 años, el primer Concurso de Construcción de Grúas de la Escuela de Ingenierías Industriales de la Universidad de Valladolid vería la luz a manos de la Delegación de Alumnos; 8 equipos, 8 ideas, y una creatividad que sólo podía nacer de un estudiante de Ingeniería.
   
 Desde entonces cada año hemos crecido un poco más, los equipos han aumentado, y el espectáculo ha ganado color, público y, sobre todo, diversión.
   
 Bienvenidos a la V Edición del Concurso de Grúas: las cosas han cambiado.
   
-El viernes día **11 de Octubre de 2019**, de la mano de la Delegación de Alumnos, tendrá lugar en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce) el **V Concurso de Construcción de Grúas** con palitos de madera.
+El viernes día **11 de Octubre de 2019**, de la mano de [IngeneirosVA](https://www.ingenierosvalladolid.es/) y [Blape](http://www.blape.com/), tendrá lugar en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce) el **V Concurso de Construcción de Grúas** con palitos de madera.
 
 - El equipo ganador obtendrá un premio efectivo de **200,00 €** único para todo el equipo.
 - El segundo equipo obtendrá un premio efectivo de **100,00 €** único para todo el equipo.
@@ -29,7 +29,7 @@ El concurso se llevará a cabo en dos fases:
 
 
 Para la construcción de la grúa se utilizarán palos de madera normalizados, unidos con cola termofusible y una base de aglomerado. **¡¡ATENCIÓN!!** Las medidas de los palos este año serán diferentes a las de ediciones anteriores [(consulta nuestras bases)](https://drive.google.com/open?id=1VlNp-DRMXpXaNd68e5gyPoTd132fUPYV).
-En la evaluación (en la cual habrá una persona de IngenierosVA, una persona de la Delegación de Alumnos y un profesor de la EII), se valorará tanto la carga (90%) que pueda aguantar y la estética (10%).
+En la evaluación del jurado, compuesto por un miembro de IngenierosVA, un representante de Blape un estudiante de la Delegación de Alumnos y un profesor de la EII, se valorará tanto la carga (90%) que pueda aguantar y la estética (10%).
 
 La organización del concurso os proporcionará todo el material de construcción que requiráis, tal y como establece en las bases, pudiendo añadir cualquier elemento estético que deseéis.
 
