@@ -3,7 +3,7 @@ layout: posts
 date: '2019-09-23 20:05 +0200'
 image: /media/
 disqus: true
-published: false
+published: true
 title: V Concurso de Construcción de Grúas
 ---
 <div class="row">
