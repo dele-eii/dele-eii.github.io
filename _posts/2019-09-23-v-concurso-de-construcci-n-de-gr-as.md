@@ -28,7 +28,7 @@ El concurso se llevará a cabo en dos fases:
 - **Carga**: Tendrá lugar en el sótano de la Escuela (19:00-21:00)
 
 
-Para la construcción de la grúa se utilizarán palos de madera normalizados, unidos con cola termofusible y una base de aglomerado. **¡¡ATENCIÓN!!** Las medidas de los palos este año serán diferentes a las de ediciones anteriores [(consulta nuestras bases)](https://drive.google.com/open?id=1VlNp-DRMXpXaNd68e5gyPoTd132fUPYV).
+Para la construcción de la grúa se utilizarán palos de madera normalizados, unidos con cola termofusible y una base de aglomerado. **¡¡ATENCIÓN!!** Las medidas de los palos este año serán diferentes a las de ediciones anteriores, [consulta las bases](https://drive.google.com/file/d/1LEuXZrT5v1fV-elpU3o6a5xlxIUUpXcS/view?usp=sharing).
 En la evaluación del jurado, compuesto por un miembro de IngenierosVA, un representante de Blape un estudiante de la Delegación de Alumnos y un profesor de la EII, se valorará tanto la carga (90%) que pueda aguantar y la estética (10%).
 
 La organización del concurso os proporcionará todo el material de construcción que requiráis, tal y como establece en las bases, pudiendo añadir cualquier elemento estético que deseéis.
