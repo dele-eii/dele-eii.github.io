@@ -17,7 +17,7 @@ Desde entonces cada año hemos crecido un poco más, los equipos han aumentado, 
   
 Bienvenidos a la V Edición del Concurso de Grúas: las cosas han cambiado.
   
-El viernes día **11 de Octubre de 2019**, de la mano de [IngeneirosVA](https://www.ingenierosvalladolid.es/) y [Blape](http://www.blape.com/), tendrá lugar en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce) el **V Concurso de Construcción de Grúas** con palitos de madera.
+El viernes día **11 de Octubre de 2019**, de la mano de [IngenierosVA](https://www.ingenierosvalladolid.es/) y [Blape](http://www.blape.com/), tendrá lugar en la Escuela de Ingenierías Industriales (Sede Paseo del Cauce) el **V Concurso de Construcción de Grúas** con palitos de madera.
 
 - El equipo ganador obtendrá un premio efectivo de **200,00 €** único para todo el equipo.
 - El segundo equipo obtendrá un premio efectivo de **100,00 €** único para todo el equipo.
