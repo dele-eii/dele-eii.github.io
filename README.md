@@ -20,7 +20,7 @@ Aqui contare todo lo relacionado con como subir y editar noticias a la web.
 
 ### Prose
 
-Las noticias se crean desde una pagina llamada [prose.io](prose.io) donde nos pedira conectarnos con GitHub, la cuenta de Github debe ser la de la delegacion.
+Las noticias se crean desde una pagina llamada [prose.io](https://prose.io) donde nos pedira conectarnos con GitHub, la cuenta de Github debe ser la de la delegacion.
 
 Una vez dentro nos aparecera un unico proyecto, en el que debemos entrar.
 
