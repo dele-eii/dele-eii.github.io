@@ -1,7 +1,7 @@
 ---
 layout: posts
 date: '2019-09-23 20:05 +0200'
-image: /media/V%20Concurso%20de%20gr%C3%BAas.png
+image: /media/V_Concurso_de_gruas.png
 disqus: true
 published: true
 title: V Concurso de Construcción de Grúas
