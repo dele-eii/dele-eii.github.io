@@ -3,7 +3,7 @@ layout: JEDII
 permalink: /x-jedii.html
 title: X JEDII
 description: Jornadas Estatales de Ingeniería Industrial
-image: /media/JEDII/logo.png
+image: /media/JEDII/logo.jpg
 ---
 
 <div class="jumbotron jumbotron-fluid m-0" id="jedii0">
