@@ -16,10 +16,10 @@ image: /media/JEDII/logo.jpg
 </div>
 <div class="col-12 col-sm-6">
 <br>
-<h1 style="text-align: center;">Jornadas Estatales De Ingeniería Industrial</h1>
+<h1 style="text-align: center; color: #5d1d49;">Jornadas Estatales De Ingeniería Industrial</h1>
 <br>
 <div class="text-center">
-<a href="#inscribirse" class="btn btn-primary btn-lg">Inscribirse</a>
+<a href="#inscribirse" class="btn btn-danger btn-lg">Inscribirse</a>
 </div>
 </div>
 
