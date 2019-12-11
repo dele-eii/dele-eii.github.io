@@ -23,7 +23,7 @@ image: /media/JEDII/logo.jpg
 </div>
 </div>
 
-<div class="col-6 col-sm-3">
+<div class="col-12 col-sm-3">
 </div>
 <div class="col-6 col-sm-3">
 <br>
