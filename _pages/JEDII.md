@@ -6,7 +6,7 @@ description: Jornadas Estatales de Ingeniería Industrial
 image: /media/JEDII/logo.jpg
 ---
 
-<div class="jumbotron jumbotron-fluid m-0" id="jedii0">
+<div class="jumbotron jumbotron-fluid m-0" id="jedii0" style="background: white;">
 <div class="container">
 <br>
 <div class="row">
@@ -40,7 +40,7 @@ image: /media/JEDII/logo.jpg
 </div>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="fenefa1"></div>
+<div class="jumbotron jumbotron-fluid m-0" id="fenefa1" style="background-image: url(http://localhost:4000/media/JEDII/fenefa1.jpg);background-size: contain;"></div>
 <div class="jumbotron jumbotron-fluid m-0" id="jedii2" style="background: #5d1d49;">
 <div class="container">
 <div class="row">
@@ -54,7 +54,7 @@ image: /media/JEDII/logo.jpg
 </div>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="fenefa1"></div>
+<div class="jumbotron jumbotron-fluid m-0" id="fenefa1" style="background-image: url(http://localhost:4000/media/JEDII/fenefa1.jpg);background-size: contain;"></div>
 <div class="jumbotron jumbotron-fluid m-0" id="jedii3" style="background: #e5f1f1;">
 <div class="container">
 <div class="row">
@@ -71,7 +71,9 @@ image: /media/JEDII/logo.jpg
 </div>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="fenefa4">
+<div class="jumbotron jumbotron-fluid m-0" id="fenefa4" style="background-image: url(http://localhost:4000/media/JEDII/fenefa1.jpg);background-size: contain;">
+</div>
+<div class="jumbotron jumbotron-fluid m-0" id="jedii0" style="background: white;">
 <A name="inscribirse"></a>
 <div class="container">
 <div class="text-center">
