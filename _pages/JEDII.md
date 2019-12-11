@@ -22,65 +22,75 @@ image: /media/JEDII/logo.jpg
 <a href="#inscribirse" class="btn btn-primary btn-lg">Inscribirse</a>
 </div>
 </div>
+
+<div class="col-6 col-sm-3">
+</div>
+<div class="col-6 col-sm-3">
+<br>
+<br>
+![CREII.png]({{site.baseurl}}/media/JEDII/CREII.png)
+</div>
+<div class="col-6 col-sm-3">
+<br>
+![AERRaAITIT.png]({{site.baseurl}}/media/JEDII/AERRAAITI.png)
 </div>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="jedii1" style="background: #c7555a;">
+</div>
+<div class="jumbotron jumbotron-fluid m-0" id="jedii1" style="background: #F58B95;">
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
 ## Jueves 27 de Febrero
-- Inaguración
-- Charlas Empresas
-- Mesa Redonda Energía
+- **16:00** Inauguración de las X JEDII en la Escuela de Ingenierías Industriales de Valladolid.
+- **17:00** 15 empresas del sector de la automoción se presentarán en 4 minutos.
+- **18:00** Coffee break y networking con las empresas presentadas.
+- **19:00** Mesa redonda sobre el futuro del sistema energético español, renovables y almacenamiento.
 </div>
 <div class="col-12 col-sm-6">
-![sap200.jpg]({{site.baseurl}}/media/sap200.jpg)
+![foto1.jpeg]({{site.baseurl}}/media/JEDII/foto1.jpeg)
 </div>
 </div>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="fenefa1" style="background-image: url(http://localhost:4000/media/JEDII/fenefa1.jpg);background-size: contain;"></div>
-<div class="jumbotron jumbotron-fluid m-0" id="jedii2" style="background: #5d1d49;">
+<div class="jumbotron jumbotron-fluid m-0" id="fenefa1" style="background-image: url({{ 'media/JEDII/fenefa1.jpg' | absolute_url }});background-size: contain;"></div>
+<div class="jumbotron jumbotron-fluid m-0" id="jedii2" style="background: #A0728E;">
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
-![sap200.jpg]({{site.baseurl}}/media/sap200.jpg)
+![foto2.jpeg]({{site.baseurl}}/media/JEDII/foto2.jpeg)
 </div>
 <div class="col-12 col-sm-6">
 ## Viernes 28 de Febrero
 - Visitas a Empresas
+    - **Opción 1:** Renault, Michelin.
+    - **Opción 2:** Vulcanizados, Aenium, Aciturri, ZF, Crystal Pharma.
+    - **Opción 3:** ACOR, PPG.
 </div>
 </div>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="fenefa1" style="background-image: url(http://localhost:4000/media/JEDII/fenefa1.jpg);background-size: contain;"></div>
-<div class="jumbotron jumbotron-fluid m-0" id="jedii3" style="background: #e5f1f1;">
+<div class="jumbotron jumbotron-fluid m-0" id="fenefa1" style="background-image: url({{ 'media/JEDII/fenefa1.jpg' | absolute_url }});background-size: contain;"></div>
+<div class="jumbotron jumbotron-fluid m-0" id="jedii3" style="background: #E3F3F3;">
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
 ## Sabado 29 de Febrero
-- Charlas
-- Talleres
-- Transformación Digital
-- Visita Teatralizada
+- **09:00** Charla técnica “Tecnología BIM”.
+- **10:00** Charla técnica “Transporte interno en planta”.
+- **11:30** Talleres: design thinking, maquetado de proyectos, visión 3D.
+- **16:00** Charla “Transformación digital”.
+- **17:00** Charla “El ingeniero como auditor”.
+- **18:30** Visita cultural.
+- **22:00** Cena de gala.
 </div>
 <div class="col-12 col-sm-6">
-![sap200.jpg]({{site.baseurl}}/media/sap200.jpg)
+![foto3.jpeg]({{site.baseurl}}/media/JEDII/foto3.jpeg)
 </div>
 </div>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="fenefa4" style="background-image: url(http://localhost:4000/media/JEDII/fenefa1.jpg);background-size: contain;">
-</div>
-<div class="jumbotron jumbotron-fluid m-0" id="jedii0" style="background: white;">
-<A name="inscribirse"></a>
-<div class="container">
-<div class="text-center">
-## Pre-Inscripciones
-<div id="countdown"></div>
-</div>
-</div>
+<div class="jumbotron jumbotron-fluid m-0" id="fenefa4" style="background-image: url({{ 'media/JEDII/fenefa1.jpg' | absolute_url }});background-size: contain;">
 </div>
 <div class="jumbotron jumbotron-fluid m-0" id="jedii5">
 <div class="container">
@@ -91,6 +101,15 @@ image: /media/JEDII/logo.jpg
 <div class="col-12 col-sm-6">
 ### Colaboradores:
 </div>
+</div>
+</div>
+</div>
+<div class="jumbotron jumbotron-fluid m-0" id="jedii0" style="background: white;">
+<A name="inscribirse"></a>
+<div class="container">
+<div class="text-center">
+## Pre-Inscripciones
+<div id="countdown"></div>
 </div>
 </div>
 </div>
