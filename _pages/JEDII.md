@@ -42,10 +42,13 @@ image: /media/JEDII/logo.jpg
 <div class="row">
 <div class="col-12 col-sm-6">
 ## Jueves 27 de Febrero
-- **16:00** Inauguración de las X JEDII en la Escuela de Ingenierías Industriales de Valladolid.
-- **17:00** 15 empresas del sector de la automoción se presentarán en 4 minutos.
-- **18:00** Coffee break y networking con las empresas presentadas.
-- **19:00** Mesa redonda sobre el futuro del sistema energético español, renovables y almacenamiento.
+**16:00** Inauguración de las X JEDII en la Escuela de Ingenierías Industriales de Valladolid.  
+
+**17:00** 15 empresas del sector de la automoción se presentarán en 4 minutos.  
+
+**18:00** Coffee break y networking con las empresas presentadas.  
+
+**19:00** Mesa redonda sobre el futuro del sistema energético español, renovables y almacenamiento.  
 </div>
 <div class="col-12 col-sm-6">
 ![foto1.jpeg]({{site.baseurl}}/media/JEDII/foto1.jpeg)
@@ -62,10 +65,13 @@ image: /media/JEDII/logo.jpg
 </div>
 <div class="col-12 col-sm-6">
 ## Viernes 28 de Febrero
-- Visitas a Empresas
-    - **Opción 1:** Renault, Michelin.
-    - **Opción 2:** Vulcanizados, Aenium, Aciturri, ZF, Crystal Pharma.
-    - **Opción 3:** ACOR, PPG.
+Visitas a Empresas  
+
+**Opción 1:** Renault, Michelin.  
+
+**Opción 2:** Vulcanizados, Aenium, Aciturri, ZF, Crystal Pharma.  
+
+**Opción 3:** ACOR, PPG.
 </div>
 </div>
 </div>
@@ -76,13 +82,19 @@ image: /media/JEDII/logo.jpg
 <div class="row">
 <div class="col-12 col-sm-6">
 ## Sabado 29 de Febrero
-- **09:00** Charla técnica “Tecnología BIM”.
-- **10:00** Charla técnica “Transporte interno en planta”.
-- **11:30** Talleres: design thinking, maquetado de proyectos, visión 3D.
-- **16:00** Charla “Transformación digital”.
-- **17:00** Charla “El ingeniero como auditor”.
-- **18:30** Visita cultural.
-- **22:00** Cena de gala.
+**09:00** Charla técnica “Tecnología BIM”.  
+
+**10:00** Charla técnica “Transporte interno en planta”.  
+
+**11:30** Talleres: design thinking, maquetado de proyectos, visión 3D.  
+
+**16:00** Charla “Transformación digital”.  
+
+**17:00** Charla “El ingeniero como auditor”.  
+
+**18:30** Visita cultural.  
+
+**22:00** Cena de gala.  
 </div>
 <div class="col-12 col-sm-6">
 ![foto3.jpeg]({{site.baseurl}}/media/JEDII/foto3.jpeg)
@@ -109,7 +121,8 @@ image: /media/JEDII/logo.jpg
 <div class="container">
 <div class="text-center">
 ## Pre-Inscripciones
-<div id="countdown"></div>
+Apartir del 16 de Diciembre de 2019
+<div id="countdown"  style="font-size: larger;font-weight: bold;"></div>
 </div>
 </div>
 </div>
