@@ -12,7 +12,7 @@ function showRemaining() {
     if (distance < 0) {
 
         clearInterval(timer);
-        document.getElementById('countdown').innerHTML = '<a href="{{site.url}}{{site.baseurl}}/noticias/" class="btn btn-danger btn-lg">Pre-Inscribirse</a>';
+        document.getElementById('countdown').innerHTML = '<a href="https://forms.gle/GJev39UKPuQ6Nz549" class="btn btn-danger btn-lg">Pre-Inscribirse</a>';
 
         return;
     }
