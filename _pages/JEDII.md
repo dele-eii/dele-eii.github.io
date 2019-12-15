@@ -152,6 +152,8 @@ Visitas a Empresas
 ## Pre-Inscripciones
 Apartir del 16 de Diciembre de 2019
 <div id="countdown"  style="font-size: larger;font-weight: bold;"></div>
+<br>
+<h3>Precio 70€</h3>
 </div>
 </div>
 </div>
