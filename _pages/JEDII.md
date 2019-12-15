@@ -106,19 +106,46 @@ Visitas a Empresas
 </div>
 <div class="jumbotron jumbotron-fluid m-0" id="fenefa4" style="background-image: url({{ 'media/JEDII/fenefa1.jpg' | absolute_url }});background-size: contain;">
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="jedii5">
+<div class="jumbotron jumbotron-fluid m-0" id="jedii5" style="background: white;">
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
 ### Patrocinadores:
+<div class="row">
+<div class="col-6">
+![COGITI.jpg]({{site.baseurl}}/media/JEDII/COGITI.jpg)
+</div>
+<div class="col-6">
+![COIIM.jpg]({{site.baseurl}}/media/JEDII/COIIM.jpg)
+</div>
+<div class="col-4">
+<br>
+![DGH.png]({{site.baseurl}}/media/JEDII/DGH.png)
+</div>
+<div class="col-4">
+![uva.png]({{site.baseurl}}/media/JEDII/uva.png)
+</div>
+<div class="col-4">
+<br>
+![VA.jpg]({{site.baseurl}}/media/JEDII/VA.jpg)
+</div>
+</div>
 </div>
 <div class="col-12 col-sm-6">
 ### Colaboradores:
+<div class="row">
+<div class="col-4">
+![recrea.jpg]({{site.baseurl}}/media/JEDII/recrea.jpg)
+</div>
+<div class="col-8">
+![facyl.png]({{site.baseurl}}/media/JEDII/facyl.png)
 </div>
 </div>
 </div>
 </div>
-<div class="jumbotron jumbotron-fluid m-0" id="jedii0" style="background: white;">
+</div>
+</div>
+<div class="jumbotron jumbotron-fluid m-0" id="jedii6">
 <A name="inscribirse"></a>
 <div class="container">
 <div class="text-center">
