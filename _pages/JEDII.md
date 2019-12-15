@@ -23,15 +23,17 @@ image: /media/JEDII/logo.jpg
 </div>
 </div>
 
-<div class="col-12 col-sm-3">
+<div class="col-12 col-sm-1">
 </div>
-<div class="col-6 col-sm-3">
-<br>
+<div class="col-4 col-sm-3">
 <br>
 ![CREII.png]({{site.baseurl}}/media/JEDII/CREII.png)
 </div>
-<div class="col-6 col-sm-3">
+<div class="col-4 col-sm-4">
 <br>
+![logoeii.png]({{site.baseurl}}/media/JEDII/logoeii.jpg)
+</div>
+<div class="col-4 col-sm-3">
 ![AERRaAITIT.png]({{site.baseurl}}/media/JEDII/AERRAAITI.png)
 </div>
 </div>
