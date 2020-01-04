@@ -16,7 +16,7 @@
 title: "Delegación EII"
 email: alumnos.eii@uva.es
 description: "Delegación de Alumnos de la EII"
-url: http://alumnos.eii.uva.es # the base hostname & protocol for your site, e.g. http://example.com
+url: https://alumnos.eii.uva.es # the base hostname & protocol for your site, e.g. http://example.com
 baseurl:
 lang: es_ES
 logo: /assets/logo/logoDele.png
@@ -50,7 +50,7 @@ kramdown:
   # parse markdown inside block-level HTML tag
   parse_block_html: true
 sass:
-    style: compressed
+  style: compressed
 
 # Plugins (previously gems:)
 plugins:
@@ -106,10 +106,10 @@ include:
 keep_files: [media, assets/logo, assets/gif]
 
 prose:
-  rooturl: '_posts'
-  siteurl: 'http://alumnos.eii.uva.es/'
-  relativeLinks: 'http://alumnos.eii.uva.es/links.jsonp'
-  media: 'media'
+  rooturl: "_posts"
+  siteurl: "https://alumnos.eii.uva.es/"
+  relativeLinks: "https://alumnos.eii.uva.es/links.jsonp"
+  media: "media"
   metadata:
     _posts:
       - name: "layout"
@@ -146,4 +146,3 @@ prose:
           element: "checkbox"
           label: "Publicar"
           value: false
-
