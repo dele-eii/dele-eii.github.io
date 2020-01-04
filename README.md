@@ -6,7 +6,7 @@ En este documento resumire como usar la web y como esta construida, con el fin d
 
 Hay dos elementos fundamentales en toda pagina web, el dominio y el hosting.
 
-El dominio en nuestro caso es [alumnos.eii.uva.es](alumnos.eii.uva.es) y esta gestionado por la universidad por lo que cualquier cambio respecto al dominio requiere contactar con ellos.
+El dominio en nuestro caso es [alumnos.eii.uva.es](https://alumnos.eii.uva.es) y esta gestionado por la universidad por lo que cualquier cambio respecto al dominio requiere contactar con ellos.
 
 El hosting no es otra cosa que el ordenador donde esta alojado el codigo de la web y que te lo manda para que lo veas en tu navegador.
 
