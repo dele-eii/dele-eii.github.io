@@ -200,6 +200,7 @@ Visitas a Empresas
 </div>
 <div class="col-4 col-sm-2">
 <br>
+<br>
 ![Observal.png]({{site.baseurl}}/media/JEDII/Observal.png)
 </div>
 <div class="col-0 col-sm-3">
