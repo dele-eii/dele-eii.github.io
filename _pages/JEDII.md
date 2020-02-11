@@ -16,11 +16,8 @@ image: /media/JEDII/logo.jpg
 </div>
 <div class="col-12 col-sm-6">
 <br>
-<h1 style="text-align: center; color: #5d1d49;">Jornadas Estatales De Ingeniería Industrial</h1>
 <br>
-<div class="text-center">
-<a href="#inscribirse" class="btn btn-danger btn-lg">Inscribirse</a>
-</div>
+<h1 style="text-align: center; color: #5d1d49;">Jornadas Estatales De Ingeniería Industrial</h1>
 </div>
 
 <div class="col-12 col-sm-1">
@@ -146,14 +143,4 @@ Visitas a Empresas
 </div>
 </div>
 <div class="jumbotron jumbotron-fluid m-0" id="jedii6">
-<A name="inscribirse"></a>
-<div class="container">
-<div class="text-center">
-## Pre-Inscripciones
-Apartir del 16 de Diciembre de 2019
-<div id="countdown"  style="font-size: larger;font-weight: bold;"></div>
-<br>
-<h3>Precio 70€</h3>
-</div>
-</div>
 </div>
