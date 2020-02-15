@@ -87,7 +87,7 @@ Visitas a Empresas
 
 **Opción 1:** Renault  
 
-**Opción 2:** GMV, Aciturri, Vulcanizados Álvarez y Aeniuem  
+**Opción 2:** GMV, Aciturri, Vulcanizados Álvarez y Aenium  
 
 **Opción 3:** ACOR y San Cayetano  
 </div>
