@@ -19,31 +19,52 @@ image: /media/JEDII/logo.jpg
 <br>
 <h1 style="text-align: center; color: #5d1d49;">Jornadas Estatales De Ingeniería Industrial</h1>
 </div>
+</div>
+</div>
 <br>
-<div class="col-6 col-sm-4">
-<br>
-![COGITI.jpg]({{site.baseurl}}/media/JEDII/COGITI.jpg)
-</div>
-<div class="col-6 col-sm-4">
-![COIIM.jpg]({{site.baseurl}}/media/JEDII/COIIM.jpg)
-</div>
-<div class="col-6 col-sm-4">
-![ingenierosVA.png]({{site.baseurl}}/media/JEDII/ingenierosVA.png)
-</div>
-<div class="col-6 col-sm-4">
-![ConsejoSocial.png]({{site.baseurl}}/media/JEDII/ConsejoSocial.png)
-</div>
+<div class="container">
+## Patrocinadores Principales:
+<div class="row">
 <div class="col-6 col-sm-4">
 <br>
-![logoeii.jpg]({{site.baseurl}}/media/JEDII/logoeii.jpg)
+[![COGITI.jpg]({{site.baseurl}}/media/JEDII/COGITI.jpg)](https://cogiti.es/)
 </div>
 <div class="col-6 col-sm-4">
-![caja-de-ingenieros.jpg]({{site.baseurl}}/media/JEDII/caja-de-ingenieros.jpg)
+[![COIIM.jpg]({{site.baseurl}}/media/JEDII/COIIM.jpg)](http://portal.coiim.es/)
+</div>
+<div class="col-6 col-sm-4">
+[![ingenierosVA.png]({{site.baseurl}}/media/JEDII/ingenierosVA.png)](https://www.ingenierosvalladolid.es/)
+</div>
+<div class="col-6 col-sm-4">
+[![ConsejoSocial.png]({{site.baseurl}}/media/JEDII/ConsejoSocial.png)](http://consejosocial.uva.es/)
+</div>
+<div class="col-6 col-sm-4">
+<br>
+[![logoeii.jpg]({{site.baseurl}}/media/JEDII/logoeii.jpg)](https://www.eii.uva.es/)
+</div>
+<div class="col-6 col-sm-4">
+[![caja-de-ingenieros.jpg]({{site.baseurl}}/media/JEDII/caja-de-ingenieros.jpg)](https://www.caixaenginyers.com/es/)
+</div>
+</div>
+<br>
+<div class="row">
+<div class="col-12 col-sm-3 text-center">
+<a href="#jueves" class="btn btn-danger btn-lg">Programa Jueves 27</a>
+</div>
+<div class="col-12 col-sm-3 text-center">
+<a href="#viernes" class="btn btn-danger btn-lg">Programa Viernes 28</a>
+</div>
+<div class="col-12 col-sm-3 text-center">
+<a href="#sabado" class="btn btn-danger btn-lg">Programa Sabado 29</a>
+</div>
+<div class="col-12 col-sm-3 text-center">
+<a href="#patrocinadores" class="btn btn-danger btn-lg">Patrocinadores y Colaboradoes</a>
 </div>
 </div>
 </div>
 </div>
 <div class="jumbotron jumbotron-fluid m-0" id="jedii1" style="background: #F58B95;">
+<A name="jueves"></a>
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
@@ -75,6 +96,7 @@ image: /media/JEDII/logo.jpg
 </div>
 <div class="jumbotron jumbotron-fluid m-0" id="fenefa1" style="background-image: url({{ 'media/JEDII/fenefa1.jpg' | absolute_url }});background-size: contain;"></div>
 <div class="jumbotron jumbotron-fluid m-0" id="jedii2" style="background: #A0728E;">
+<A name="viernes"></a>
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
@@ -96,6 +118,7 @@ Visitas a Empresas
 </div>
 <div class="jumbotron jumbotron-fluid m-0" id="fenefa1" style="background-image: url({{ 'media/JEDII/fenefa1.jpg' | absolute_url }});background-size: contain;"></div>
 <div class="jumbotron jumbotron-fluid m-0" id="jedii3" style="background: #E3F3F3;">
+<A name="sabado"></a>
 <div class="container">
 <div class="row">
 <div class="col-12 col-sm-6">
@@ -129,6 +152,7 @@ Visitas a Empresas
 <div class="jumbotron jumbotron-fluid m-0" id="fenefa4" style="background-image: url({{ 'media/JEDII/fenefa1.jpg' | absolute_url }});background-size: contain;">
 </div>
 <div class="jumbotron jumbotron-fluid m-0" id="jedii5" style="background: white;">
+<A name="patrocinadores"></a>
 <div class="container">
 ### Patrocinadores:
 <div class="row">
@@ -141,10 +165,10 @@ Visitas a Empresas
 <img src="{{site.baseurl}}/media/JEDII/logoeii2.jpg" width="75%" />
 </div>
 <div class="col-6">
-![VA.jpg]({{site.baseurl}}/media/JEDII/VA.jpg)
+[![VA.jpg]({{site.baseurl}}/media/JEDII/VA.jpg)](http://www.uva.es/export/sites/uva/)
 </div>
 <div class="col-6">
-![lexus.png]({{site.baseurl}}/media/JEDII/lexus.png)
+[![lexus.png]({{site.baseurl}}/media/JEDII/lexus.png)](https://www.lexusauto.es/)
 </div>
 </div>
 </div>
@@ -153,35 +177,35 @@ Visitas a Empresas
 <div class="row">
 <div class="col-4">
 <br>
-![DGH.png]({{site.baseurl}}/media/JEDII/DGH.png)
+[![DGH.png]({{site.baseurl}}/media/JEDII/DGH.png)](http://www.grupodgh.es/)
 </div>
 <div class="col-4">
 <br>
 <br>
-![barbat.png]({{site.baseurl}}/media/JEDII/barbat.png)
+[![barbat.png]({{site.baseurl}}/media/JEDII/barbat.png)](https://barbatingenieria.com/)
 </div>
 <div class="col-4">
-![Motherson.jpg]({{site.baseurl}}/media/JEDII/Motherson.jpg)
+[![Motherson.jpg]({{site.baseurl}}/media/JEDII/Motherson.jpg)](https://www.motherson.com/)
 </div>
 <div class="col-4">
-![logoESE.bmp]({{site.baseurl}}/media/JEDII/logoESE.bmp)
+[![logoESE.bmp]({{site.baseurl}}/media/JEDII/logoESE.bmp)](https://www.eurostyle-systems.fr/)
 </div>
 <div class="col-4">
-![Michelin.jpg]({{site.baseurl}}/media/JEDII/Michelin.jpg)
+[![Michelin.jpg]({{site.baseurl}}/media/JEDII/Michelin.jpg)](https://www.michelin.es/)
 </div>
 <div class="col-4">
-![faurecia.jpg]({{site.baseurl}}/media/JEDII/faurecia.jpg)
-</div>
-<div class="col-4">
-<br>
-![1AIngenieros.png]({{site.baseurl}}/media/JEDII/1AIngenieros.png)
+[![faurecia.jpg]({{site.baseurl}}/media/JEDII/faurecia.jpg)](https://www.faurecia.com/en)
 </div>
 <div class="col-4">
 <br>
-![Bertrandt.jpg]({{site.baseurl}}/media/JEDII/Bertrandt.jpg)
+[![1AIngenieros.png]({{site.baseurl}}/media/JEDII/1AIngenieros.png)](https://www.1aingenieros.com/)
 </div>
 <div class="col-4">
-![Renault.png]({{site.baseurl}}/media/JEDII/Renault.png)
+<br>
+[![Bertrandt.jpg]({{site.baseurl}}/media/JEDII/Bertrandt.jpg)](https://www.bertrandt.com/en/)
+</div>
+<div class="col-4">
+[![Renault.png]({{site.baseurl}}/media/JEDII/Renault.png)](https://www.renault.es/)
 </div>
 </div>
 </div>
@@ -192,16 +216,16 @@ Visitas a Empresas
 <div class="col-0 col-sm-3">
 </div>
 <div class="col-4 col-sm-2">
-![recrea.jpg]({{site.baseurl}}/media/JEDII/recrea.jpg)
+[![recrea.jpg]({{site.baseurl}}/media/JEDII/recrea.jpg)](http://recreadesign.blogspot.com/)
 </div>
 <div class="col-4 col-sm-2">
 <br>
-![facyl.png]({{site.baseurl}}/media/JEDII/facyl.png)
+[![facyl.png]({{site.baseurl}}/media/JEDII/facyl.png)](https://www.facyl.es/)
 </div>
 <div class="col-4 col-sm-2">
 <br>
 <br>
-![Observal.png]({{site.baseurl}}/media/JEDII/Observal.png)
+[![Observal.png]({{site.baseurl}}/media/JEDII/Observal.png)](https://www.observal.es/es/)
 </div>
 <div class="col-0 col-sm-3">
 </div>
