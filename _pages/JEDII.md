@@ -27,10 +27,10 @@ image: /media/JEDII/logo.jpg
 <div class="row">
 <div class="col-6 col-sm-4">
 <br>
-[![COGITI.jpg]({{site.baseurl}}/media/JEDII/COGITI.jpg)](https://cogiti.es/)
+[![COGITI.jpg]({{site.baseurl}}/media/JEDII/COGITI.jpg)](https://ingenierosindustriales.es/)
 </div>
 <div class="col-6 col-sm-4">
-[![COIIM.jpg]({{site.baseurl}}/media/JEDII/COIIM.jpg)](http://portal.coiim.es/)
+[![CGCOII.jpg]({{site.baseurl}}/media/JEDII/CGCOII.jpg)](http://ingenierosindustriales.es/)
 </div>
 <div class="col-6 col-sm-4">
 [![ingenierosVA.png]({{site.baseurl}}/media/JEDII/ingenierosVA.png)](https://www.ingenierosvalladolid.es/)
