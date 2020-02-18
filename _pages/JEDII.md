@@ -71,7 +71,8 @@ image: /media/JEDII/logo.jpg
 ## Jueves 27 de Febrero
 **16:00** Inauguración de las X JEDII en la Escuela de Ingenierías Industriales de Valladolid.  
 
-**17:00** Feria de empleo:
+**17:00** Feria de empleo:  
+    **Empresas: Barbat, DGH, Faurecia, Bertrand, Eurostyle Systems, Michelin, Segula, 1A Ingenieros**
 
 - 17:00 presentación de las empresas en el salón de actos.  
 - 18:00 networking con las empresas presentadas.  
