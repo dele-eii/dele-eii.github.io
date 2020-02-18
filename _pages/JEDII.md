@@ -27,23 +27,23 @@ image: /media/JEDII/logo.jpg
 <div class="row">
 <div class="col-6 col-sm-4">
 <br>
-[![COGITI.jpg]({{site.baseurl}}/media/JEDII/COGITI.jpg)](https://ingenierosindustriales.es/)
+[![COGITI.jpg]({{site.baseurl}}/media/JEDII/COGITI.jpg)](https://ingenierosindustriales.es/){:target="_blank"}
 </div>
 <div class="col-6 col-sm-4">
-[![CGCOII.jpg]({{site.baseurl}}/media/JEDII/CGCOII.jpg)](http://ingenierosindustriales.es/)
+[![CGCOII.jpg]({{site.baseurl}}/media/JEDII/CGCOII.jpg)](http://ingenierosindustriales.es/){:target="_blank"}
 </div>
 <div class="col-6 col-sm-4">
-[![ingenierosVA.png]({{site.baseurl}}/media/JEDII/ingenierosVA.png)](https://www.ingenierosvalladolid.es/)
+[![ingenierosVA.png]({{site.baseurl}}/media/JEDII/ingenierosVA.png)](https://www.ingenierosvalladolid.es/){:target="_blank"}
 </div>
 <div class="col-6 col-sm-4">
-[![ConsejoSocial.png]({{site.baseurl}}/media/JEDII/ConsejoSocial.png)](http://consejosocial.uva.es/)
+[![ConsejoSocial.png]({{site.baseurl}}/media/JEDII/ConsejoSocial.png)](http://consejosocial.uva.es/){:target="_blank"}
 </div>
 <div class="col-6 col-sm-4">
 <br>
-[![logoeii.jpg]({{site.baseurl}}/media/JEDII/logoeii.jpg)](https://www.eii.uva.es/)
+[![logoeii.jpg]({{site.baseurl}}/media/JEDII/logoeii.jpg)](https://www.eii.uva.es/){:target="_blank"}
 </div>
 <div class="col-6 col-sm-4">
-[![caja-de-ingenieros.jpg]({{site.baseurl}}/media/JEDII/caja-de-ingenieros.jpg)](https://www.caixaenginyers.com/es/)
+[![caja-de-ingenieros.jpg]({{site.baseurl}}/media/JEDII/caja-de-ingenieros.jpg)](https://www.caixaenginyers.com/es/){:target="_blank"}
 </div>
 </div>
 <br>
@@ -165,10 +165,10 @@ Visitas a Empresas
 <img src="{{site.baseurl}}/media/JEDII/logoeii2.jpg" width="75%" />
 </div>
 <div class="col-6">
-[![VA.jpg]({{site.baseurl}}/media/JEDII/VA.jpg)](http://www.uva.es/export/sites/uva/)
+[![VA.jpg]({{site.baseurl}}/media/JEDII/VA.jpg)](http://www.uva.es/export/sites/uva/){:target="_blank"}
 </div>
 <div class="col-6">
-[![lexus.png]({{site.baseurl}}/media/JEDII/lexus.png)](https://www.lexusauto.es/)
+[![lexus.png]({{site.baseurl}}/media/JEDII/lexus.png)](https://www.lexusauto.es/){:target="_blank"}
 </div>
 </div>
 </div>
@@ -177,35 +177,40 @@ Visitas a Empresas
 <div class="row">
 <div class="col-4">
 <br>
-[![DGH.png]({{site.baseurl}}/media/JEDII/DGH.png)](http://www.grupodgh.es/)
+[![DGH.png]({{site.baseurl}}/media/JEDII/DGH.png)](http://www.grupodgh.es/){:target="_blank"}
 </div>
 <div class="col-4">
 <br>
 <br>
-[![barbat.png]({{site.baseurl}}/media/JEDII/barbat.png)](https://barbatingenieria.com/)
+[![barbat.png]({{site.baseurl}}/media/JEDII/barbat.png)](https://barbatingenieria.com/){:target="_blank"}
 </div>
 <div class="col-4">
-[![Motherson.jpg]({{site.baseurl}}/media/JEDII/Motherson.jpg)](https://www.motherson.com/)
+[![Motherson.jpg]({{site.baseurl}}/media/JEDII/Motherson.jpg)](https://www.motherson.com/){:target="_blank"}
 </div>
 <div class="col-4">
-[![logoESE.bmp]({{site.baseurl}}/media/JEDII/logoESE.bmp)](https://www.eurostyle-systems.fr/)
+[![logoESE.bmp]({{site.baseurl}}/media/JEDII/logoESE.bmp)](https://www.eurostyle-systems.fr/){:target="_blank"}
 </div>
 <div class="col-4">
-[![Michelin.jpg]({{site.baseurl}}/media/JEDII/Michelin.jpg)](https://www.michelin.es/)
+[![Michelin.jpg]({{site.baseurl}}/media/JEDII/Michelin.jpg)](https://www.michelin.es/){:target="_blank"}
 </div>
 <div class="col-4">
-[![faurecia.jpg]({{site.baseurl}}/media/JEDII/faurecia.jpg)](https://www.faurecia.com/en)
-</div>
-<div class="col-4">
-<br>
-[![1AIngenieros.png]({{site.baseurl}}/media/JEDII/1AIngenieros.png)](https://www.1aingenieros.com/)
+[![faurecia.jpg]({{site.baseurl}}/media/JEDII/faurecia.jpg)](https://www.faurecia.com/en){:target="_blank"}
 </div>
 <div class="col-4">
 <br>
-[![Bertrandt.jpg]({{site.baseurl}}/media/JEDII/Bertrandt.jpg)](https://www.bertrandt.com/en/)
+[![1AIngenieros.png]({{site.baseurl}}/media/JEDII/1AIngenieros.png)](https://www.1aingenieros.com/){:target="_blank"}
 </div>
 <div class="col-4">
-[![Renault.png]({{site.baseurl}}/media/JEDII/Renault.png)](https://www.renault.es/)
+<br>
+[![Bertrandt.jpg]({{site.baseurl}}/media/JEDII/Bertrandt.jpg)](https://www.bertrandt.com/en/){:target="_blank"}
+</div>
+<div class="col-4">
+[![Renault.png]({{site.baseurl}}/media/JEDII/Renault.png)](https://www.renault.es/){:target="_blank"}
+</div>
+<div class="col-4">
+</div>
+<div class="col-4">
+[![segula.jpg]({{site.baseurl}}/media/JEDII/segula.jpg)](https://spain.segulatechnologies.com/es/){:target="_blank"}
 </div>
 </div>
 </div>
@@ -213,21 +218,25 @@ Visitas a Empresas
 <br>
 ### Colaboradores:
 <div class="row">
-<div class="col-0 col-sm-3">
+<div class="col-0 col-sm-2">
 </div>
-<div class="col-4 col-sm-2">
-[![recrea.jpg]({{site.baseurl}}/media/JEDII/recrea.jpg)](http://recreadesign.blogspot.com/)
+<div class="col-3 col-sm-2">
+[![recrea.jpg]({{site.baseurl}}/media/JEDII/recrea.jpg)](http://recreadesign.blogspot.com/){:target="_blank"}
 </div>
-<div class="col-4 col-sm-2">
+<div class="col-3 col-sm-2">
 <br>
-[![facyl.png]({{site.baseurl}}/media/JEDII/facyl.png)](https://www.facyl.es/)
+[![facyl.png]({{site.baseurl}}/media/JEDII/facyl.png)](https://www.facyl.es/){:target="_blank"}
 </div>
-<div class="col-4 col-sm-2">
+<div class="col-3 col-sm-2">
 <br>
 <br>
-[![Observal.png]({{site.baseurl}}/media/JEDII/Observal.png)](https://www.observal.es/es/)
+[![Observal.png]({{site.baseurl}}/media/JEDII/Observal.png)](https://www.observal.es/es/){:target="_blank"}
 </div>
-<div class="col-0 col-sm-3">
+<div class="col-3 col-sm-2">
+<br>
+[![oquendo.jpg]({{site.baseurl}}/media/JEDII/oquendo.jpg)](https://www.cafesoquendo.com/){:target="_blank"}
+</div>
+<div class="col-0 col-sm-2">
 </div>
 </div>
 </div>
