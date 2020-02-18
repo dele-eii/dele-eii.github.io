@@ -72,7 +72,7 @@ image: /media/JEDII/logo.jpg
 **16:00** Inauguración de las X JEDII en la Escuela de Ingenierías Industriales de Valladolid.  
 
 **17:00** Feria de empleo:  
-    **Empresas: Barbat, DGH, Faurecia, Bertrand, Eurostyle Systems, Michelin, Segula, 1A Ingenieros**
+    **Empresas: Barbat, DGH, Faurecia, Bertrand, Eurostyle Systems, Michelin, Segula, 1A Ingenieros, Grupo Motherson**
 
 - 17:00 presentación de las empresas en el salón de actos.  
 - 18:00 networking con las empresas presentadas.  
@@ -110,7 +110,7 @@ Visitas a Empresas
 
 **Opción 1:** Renault  
 
-**Opción 2:** GMV, Aciturri, Vulcanizados Álvarez y Aenium  
+**Opción 2:** GMV, Industrias Maxi, Vulcanizados Álvarez y Aenium  
 
 **Opción 3:** ACOR y San Cayetano  
 </div>
