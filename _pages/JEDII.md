@@ -169,7 +169,7 @@ Visitas a Empresas
 [![VA.jpg]({{site.baseurl}}/media/JEDII/VA.jpg)](http://www.uva.es/export/sites/uva/){:target="_blank"}
 </div>
 <div class="col-6">
-[![lexus.png]({{site.baseurl}}/media/JEDII/lexus.png)](https://www.lexusauto.es/){:target="_blank"}
+[![bafer.png]({{site.baseurl}}/media/JEDII/bafer.png)](https://grupobafer.es/){:target="_blank"}
 </div>
 </div>
 </div>
