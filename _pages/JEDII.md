@@ -83,9 +83,13 @@ published: true
 **19:00** Mesa redonda sobre el futuro del sistema energético español, renovables y almacenamiento.  
 - Moderada por José Luis Chacel.
 - Ponentes:
-    - Roberto Getino EREN  
+    - Rafael Ayuste de EREN  
     - Luis Vélez, Concejal de Movilidad y Espacio Urbano del Aytto de Valladolid  
-    - Jóvenes Nucleares  
+    - Jaime Redondo de Jóvenes Nucleares
+ 	- Fernando Frechoso Grupo de Energía, Economía y Dinámica de Sistemas
+  	- Héctor Arto de Iberdrola
+  
+  
 
 </div>
 <div class="col-12 col-sm-6">
