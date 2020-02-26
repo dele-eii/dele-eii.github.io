@@ -87,7 +87,7 @@ published: true
     - Luis Vélez, Concejal de Movilidad y Espacio Urbano del Aytto de Valladolid  
     - Jaime Redondo de Jóvenes Nucleares
  	- Fernando Frechoso Grupo de Energía, Economía y Dinámica de Sistemas
-  	- Héctor Arto de Iberdrola
+  	- Fernando Frechoso Grupo de Energía, Economía y Dinámica de Sistemas
   
   
 
