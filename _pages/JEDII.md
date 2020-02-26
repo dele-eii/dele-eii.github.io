@@ -84,11 +84,10 @@ published: true
 - Moderada por José Luis Chacel.
 - Ponentes:
     - Rafael Ayuste de EREN  
-    - Luis Vélez, Concejal de Movilidad y Espacio Urbano del Aytto de Valladolid  
+    - Luis Vélez, Concejal de Movilidad y Espacio Urbano del Ayto de Valladolid  
     - Jaime Redondo de Jóvenes Nucleares
-    - Rafael Ayuste de EREN  
-    - Luis Vélez, Concejal de Movilidad y Espacio Urbano del Aytto de Valladolid  
-    - Jaime Redondo de Jóvenes Nucleares
+    - Fernando Frechoso del Grupo de Energía, Economía y Dinámica de Sistemas
+    - Héctor Arto de Iberdrola  
  	
   
   
