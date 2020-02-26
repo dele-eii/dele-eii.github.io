@@ -86,8 +86,10 @@ published: true
     - Rafael Ayuste de EREN  
     - Luis Vélez, Concejal de Movilidad y Espacio Urbano del Aytto de Valladolid  
     - Jaime Redondo de Jóvenes Nucleares
- 	- Fernando Frechoso Grupo de Energía, Economía y Dinámica de Sistemas
-  	- Fernando Frechoso Grupo de Energía, Economía y Dinámica de Sistemas
+    - Rafael Ayuste de EREN  
+    - Luis Vélez, Concejal de Movilidad y Espacio Urbano del Aytto de Valladolid  
+    - Jaime Redondo de Jóvenes Nucleares
+ 	
   
   
 
