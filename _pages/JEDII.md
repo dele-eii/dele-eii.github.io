@@ -4,6 +4,7 @@ permalink: /x-jedii.html
 title: X JEDII
 description: Jornadas Estatales de Ingeniería Industrial
 image: /media/JEDII/logo.jpg
+published: true
 ---
 
 <div class="jumbotron jumbotron-fluid m-0" id="jedii0" style="background: white;">
@@ -72,7 +73,7 @@ image: /media/JEDII/logo.jpg
 **16:00** Inauguración de las X JEDII en la Escuela de Ingenierías Industriales de Valladolid.  
 
 **17:00** Feria de empleo:  
-    **Empresas: Barbat, DGH, Faurecia, Bertrand, Eurostyle Systems, Michelin, Segula, 1A Ingenieros, Grupo Motherson**
+    **Empresas: Facyl, Barbat, DGH, Faurecia, Bertrand, Eurostyle Systems, Michelin, Segula, 1A Ingenieros, Grupo Motherson**
 
 - 17:00 presentación de las empresas en el salón de actos.  
 - 18:00 networking con las empresas presentadas.  
@@ -241,5 +242,3 @@ Visitas a Empresas
 </div>
 </div>
 </div>
-
-
