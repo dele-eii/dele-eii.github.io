@@ -1,115 +1,115 @@
-- nombre: Mecánica
-  horario: https://eii.uva.es/titulaciones/grados/horarios.php?grado=455
-  examenes: https://eii.uva.es/titulaciones/grados/examenes_18-19/455examenes.pdf
-  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/455/asignaturas.pdf
-  plan: https://eii.uva.es/titulaciones/grados/planes/455.pdf
+- nombre: Biomédica
+  horario: https://pod.uva.es/pod/planHorario.h?dispatch=verHorarioWeb&cplan=637&cperiodo=3&idMenu=6113100
+  examenes: https://www.uva.es/export/sites/uva/2.estudios/2.03.grados/2.02.01.oferta/estudio/e5688f6e-72fd-11ec-ae63-00505682371a/
+  asignaturas: https://www.uva.es/export/sites/uva/2.estudios/2.03.grados/2.02.01.oferta/estudio/e5688f6e-72fd-11ec-ae63-00505682371a/
+  plan: https://www.uva.es/export/sites/uva/2.estudios/2.03.grados/2.02.01.oferta/estudio/e5688f6e-72fd-11ec-ae63-00505682371a/
+
+- nombre: Eléctrica
+  horario: https://www.eii.uva.es/titulaciones/grados/horarios.php?grado=439
+  examenes: https://www.eii.uva.es/titulaciones/grados/examenes/439examenes.pdf
+  asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/439/asignaturas.pdf
+  plan: https://www.eii.uva.es/titulaciones/grado.php?id=439&tema=planif
+
+- nombre: Diseño
+  horario: https://www.eii.uva.es/titulaciones/grados/horarios.php?grado=448
+  examenes: https://www.eii.uva.es/titulaciones/grados/examenes/448examenes.pdf
+  asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/448/asignaturas.pdf
+  plan: https://www.eii.uva.es/titulaciones/grado.php?id=448&tema=planif
 
 - nombre: Electrónica
   horario: https://eii.uva.es/titulaciones/grados/horarios.php?grado=452
-  examenes: https://eii.uva.es/titulaciones/grados/examenes_18-19/452examenes.pdf
-  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/452/asignaturas.pdf
-  plan: https://eii.uva.es/titulaciones/grados/planes/452.pdf
-
+  examenes: https://www.eii.uva.es/titulaciones/grados/examenes/452examenes.pdf
+  asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/452/asignaturas.pdf
+  plan: https://www.eii.uva.es/titulaciones/grado.php?id=452&tema=planif
+  
 - nombre: Organización
-  horario: https://eii.uva.es/titulaciones/grados/horarios.php?grado=457
-  examenes: https://eii.uva.es/titulaciones/grados/examenes_18-19/447examenes.pdf
-  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/447/asignaturas.pdf
-  plan: https://eii.uva.es/titulaciones/grados/planes/447.pdf
+  horario: https://www.eii.uva.es/titulaciones/grados/horarios.php?grado=447
+  examenes: https://eii.uva.es/titulaciones/grados/examenes/447examenes.pdf
+  asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/447/asignaturas.pdf
+  plan: https://www.eii.uva.es/titulaciones/grado.php?id=447&tema=planif
 
 - nombre: Tecnologías
   horario: https://eii.uva.es/titulaciones/grados/horarios.php?grado=493
-  examenes: https://eii.uva.es/titulaciones/grados/examenes_18-19/493examenes.pdf
-  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/493/asignaturas.pdf
-  plan: https://eii.uva.es/titulaciones/grados/planes/493.pdf
+  examenes: https://www.eii.uva.es/titulaciones/grados/examenes/493examenes.pdf
+  asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/493/asignaturas.pdf
+  plan: https://www.eii.uva.es/titulaciones/grado.php?id=439&tema=planif
+ 
+- nombre: Energética
+  horario: https://www.eii.uva.es/titulaciones/grados/horarios.php?grado=647
+  examenes: https://www.eii.uva.es/titulaciones/grados/examenes/647examenes.pdf
+  asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/647/asignaturas.pdf
+  plan: https://www.eii.uva.es/titulaciones/grado.php?id=647&tema=planif
 
-- nombre: Eléctrica
-  horario: https://eii.uva.es/titulaciones/grados/horarios.php?grado=439
-  examenes: https://eii.uva.es/titulaciones/grados/examenes_18-19/439examenes.pdf
-  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/439/asignaturas.pdf
-  plan: https://eii.uva.es/titulaciones/grados/planes/439.pdf
+- nombre: Mecánica
+  horario: https://eii.uva.es/titulaciones/grados/horarios.php?grado=455
+  examenes: https://www.eii.uva.es/titulaciones/grados/examenes/455examenes.pdf
+  asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/455/asignaturas.pdf
+  plan: https://www.eii.uva.es/titulaciones/grado.php?id=455&tema=planif
 
 - nombre: Química
-  horario: https://eii.uva.es/titulaciones/grados/horarios.php?grado=442
-  examenes: https://eii.uva.es/titulaciones/grados/examenes_18-19/442examenes.pdf
-  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/442/asignaturas.pdf
-  plan: https://eii.uva.es/titulaciones/grados/planes/442.pdf
-
-- nombre: Diseño
-  horario: https://eii.uva.es/titulaciones/grados/horarios.php?grado=448
-  examenes: https://eii.uva.es/titulaciones/grados/examenes_18-19/448examenes.pdf
-  asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/448/asignaturas.pdf
-  plan: https://eii.uva.es/titulaciones/grados/planes/448.pdf
+  horario: https://www.eii.uva.es/titulaciones/grados/horarios.php?grado=442
+  examenes: https://www.eii.uva.es/titulaciones/grados/examenes/442examenes.pdf
+  asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/442/asignaturas.pdf
+  plan: https://www.eii.uva.es/titulaciones/grado.php?id=442&tema=planif
 
 - nombre: Másteres
   masteres:
     - nombre: Industrial
-      horario: https://www.eii.uva.es/titulaciones/masteroficial.php?id=511&tema=horario
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/511examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/511/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/511.pdf
-
-    - nombre: Logística
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/514.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/514examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/514/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/514.pdf
-
-    - nombre: Automoción
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/518.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/518examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/518/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/518.pdf
+      horario: https://www.eii.uva.es/titulaciones/masteroficial.php?id=718&tema=horario
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/718examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/718/asignaturas.pdf
+      plan: https://www.eii.uva.es/titulaciones/masteroficial.php?id=718&tema=planEstudios
+      
+    - nombre: Proyectos
+      horario: https://www.eii.uva.es/titulaciones/masteres/horarios/618.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/618examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/618/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/618-Direccion-de-proyectos.pdf
+      
+    - nombre: Energía
+      horario: nohay
+      examenes: nphay
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/616/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/616-Energia.pdf
 
     - nombre: Prevención
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/519.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/519examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/519/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/519.pdf
-
-    - nombre: Procesos y<br>Sistemas<br>Industriales
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/521.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/521examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/521/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/521.pdf
-
-    - nombre: Energía
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/523.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/523examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/523/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/523.pdf
+      horario: https://www.eii.uva.es/titulaciones/masteres/horarios/519.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/519examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/519/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/519-Gestion-de-la-prevencion-de-riesgos-laborales.pdf
 
     - nombre: Ambiental
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/526.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/526examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/526/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/526.pdf
+      horario: https://www.eii.uva.es/titulaciones/masteres/horarios/526.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/526examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/526/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/526-Ingenieria-Ambiental.pdf
 
-    - nombre: Acustica
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/527.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/527examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/527/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/527.pdf
+    - nombre: Biomédica
+      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/526.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/526examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/526/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/526-Ingenieria-Ambiental.pdf
+
+    - nombre: Automoción
+      horario: https://www.eii.uva.es/titulaciones/masteres/horarios/630.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/630examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/630/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/630-Ingenieria-de-Automocion.pdf
+      
+    - nombre: Diseño
+      horario: https://www.eii.uva.es/titulaciones/masteres/horarios/630.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/630examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/630/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/630-Ingenieria-de-Automocion.pdf
 
     - nombre: Química
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/542.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/542examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/542/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/542.pdf
+      horario: https://www.eii.uva.es/titulaciones/masteres/horarios/542.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/542examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/542/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/542-Ingenieria-Quimica.pdf
 
-    - nombre: Informática<br>Industrial
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/543.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/543examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/543/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/543.pdf
-
-    - nombre: Termodinámica<br>de Fluidos
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/554.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/554examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/554/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/554.pdf
-
-    - nombre: Electrónica y<br>Automática
-      horario: https://www.eii.uva.es/titulaciones/masteres/horariosPdf/568.pdf
-      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes_18-19/568examenes.pdf
-      asignaturas: http://www.uva.es/resources/docencia/_ficheros/2018/568/asignaturas.pdf
-      plan: https://www.eii.uva.es/titulaciones/masteres/planes/568.pdf
+    - nombre: Logística
+      horario: https://www.eii.uva.es/titulaciones/masteres/horarios/514.pdf
+      examenes: https://www.eii.uva.es/titulaciones/masteres/examenes/514examenes.pdf
+      asignaturas: https://www.uva.es/resources/docencia/_ficheros/2023/514/asignaturas.pdf
+      plan: https://www.uva.es/export/sites/uva/2.docencia/2.02.mastersoficiales/2.02.02.normativa/_documentos/514-Logistica.pdf
